@@ -1,2886 +1,2886 @@
 [
     {
-        "ja": "フシギダネ",
-        "en": "Bulbasaur"
+        "japanese_name": "フシギダネ",
+        "english_name": "Bulbasaur"
     },
     {
-        "ja": "フシギソウ",
-        "en": "Ivysaur"
+        "japanese_name": "フシギソウ",
+        "english_name": "Ivysaur"
     },
     {
-        "ja": "フシギバナ",
-        "en": "Venusaur"
+        "japanese_name": "フシギバナ",
+        "english_name": "Venusaur"
     },
     {
-        "ja": "ヒトカゲ",
-        "en": "Charmander"
+        "japanese_name": "ヒトカゲ",
+        "english_name": "Charmander"
     },
     {
-        "ja": "リザード",
-        "en": "Charmeleon"
+        "japanese_name": "リザード",
+        "english_name": "Charmeleon"
     },
     {
-        "ja": "リザードン",
-        "en": "Charizard"
+        "japanese_name": "リザードン",
+        "english_name": "Charizard"
     },
     {
-        "ja": "ゼニガメ",
-        "en": "Squirtle"
+        "japanese_name": "ゼニガメ",
+        "english_name": "Squirtle"
     },
     {
-        "ja": "カメール",
-        "en": "Wartortle"
+        "japanese_name": "カメール",
+        "english_name": "Wartortle"
     },
     {
-        "ja": "カメックス",
-        "en": "Blastoise"
+        "japanese_name": "カメックス",
+        "english_name": "Blastoise"
     },
     {
-        "ja": "キャタピー",
-        "en": "Caterpie"
+        "japanese_name": "キャタピー",
+        "english_name": "Caterpie"
     },
     {
-        "ja": "トランセル",
-        "en": "Metapod"
+        "japanese_name": "トランセル",
+        "english_name": "Metapod"
     },
     {
-        "ja": "バタフリー",
-        "en": "Butterfree"
+        "japanese_name": "バタフリー",
+        "english_name": "Butterfree"
     },
     {
-        "ja": "ビードル",
-        "en": "Weedle"
+        "japanese_name": "ビードル",
+        "english_name": "Weedle"
     },
     {
-        "ja": "コクーン",
-        "en": "Kakuna"
+        "japanese_name": "コクーン",
+        "english_name": "Kakuna"
     },
     {
-        "ja": "スピアー",
-        "en": "Beedrill"
+        "japanese_name": "スピアー",
+        "english_name": "Beedrill"
     },
     {
-        "ja": "ポッポ",
-        "en": "Pidgey"
+        "japanese_name": "ポッポ",
+        "english_name": "Pidgey"
     },
     {
-        "ja": "ピジョン",
-        "en": "Pidgeotto"
+        "japanese_name": "ピジョン",
+        "english_name": "Pidgeotto"
     },
     {
-        "ja": "ピジョット",
-        "en": "Pidgeot"
+        "japanese_name": "ピジョット",
+        "english_name": "Pidgeot"
     },
     {
-        "ja": "コラッタ",
-        "en": "Rattata"
+        "japanese_name": "コラッタ",
+        "english_name": "Rattata"
     },
     {
-        "ja": "ラッタ",
-        "en": "Raticate"
+        "japanese_name": "ラッタ",
+        "english_name": "Raticate"
     },
     {
-        "ja": "オニスズメ",
-        "en": "Spearow"
+        "japanese_name": "オニスズメ",
+        "english_name": "Spearow"
     },
     {
-        "ja": "オニドリル",
-        "en": "Fearow"
+        "japanese_name": "オニドリル",
+        "english_name": "Fearow"
     },
     {
-        "ja": "アーボ",
-        "en": "Ekans"
+        "japanese_name": "アーボ",
+        "english_name": "Ekans"
     },
     {
-        "ja": "アーボック",
-        "en": "Arbok"
+        "japanese_name": "アーボック",
+        "english_name": "Arbok"
     },
     {
-        "ja": "ピカチュウ",
-        "en": "Pikachu"
+        "japanese_name": "ピカチュウ",
+        "english_name": "Pikachu"
     },
     {
-        "ja": "ライチュウ",
-        "en": "Raichu"
+        "japanese_name": "ライチュウ",
+        "english_name": "Raichu"
     },
     {
-        "ja": "サンド",
-        "en": "Sandshrew"
+        "japanese_name": "サンド",
+        "english_name": "Sandshrew"
     },
     {
-        "ja": "サンドパン",
-        "en": "Sandslash"
+        "japanese_name": "サンドパン",
+        "english_name": "Sandslash"
     },
     {
-        "ja": "ニドラン♀",
-        "en": "Nidoran♀"
+        "japanese_name": "ニドラン♀",
+        "english_name": "Nidoran♀"
     },
     {
-        "ja": "ニドリーナ",
-        "en": "Nidorina"
+        "japanese_name": "ニドリーナ",
+        "english_name": "Nidorina"
     },
     {
-        "ja": "ニドクイン",
-        "en": "Nidoqueen"
+        "japanese_name": "ニドクイン",
+        "english_name": "Nidoqueen"
     },
     {
-        "ja": "ニドラン♂",
-        "en": "Nidoran♂"
+        "japanese_name": "ニドラン♂",
+        "english_name": "Nidoran♂"
     },
     {
-        "ja": "ニドリーノ",
-        "en": "Nidorino"
+        "japanese_name": "ニドリーノ",
+        "english_name": "Nidorino"
     },
     {
-        "ja": "ニドキング",
-        "en": "Nidoking"
+        "japanese_name": "ニドキング",
+        "english_name": "Nidoking"
     },
     {
-        "ja": "ピッピ",
-        "en": "Clefairy"
+        "japanese_name": "ピッピ",
+        "english_name": "Clefairy"
     },
     {
-        "ja": "ピクシー",
-        "en": "Clefable"
+        "japanese_name": "ピクシー",
+        "english_name": "Clefable"
     },
     {
-        "ja": "ロコン",
-        "en": "Vulpix"
+        "japanese_name": "ロコン",
+        "english_name": "Vulpix"
     },
     {
-        "ja": "キュウコン",
-        "en": "Ninetales"
+        "japanese_name": "キュウコン",
+        "english_name": "Ninetales"
     },
     {
-        "ja": "プリン",
-        "en": "Jigglypuff"
+        "japanese_name": "プリン",
+        "english_name": "Jigglypuff"
     },
     {
-        "ja": "プクリン",
-        "en": "Wigglytuff"
+        "japanese_name": "プクリン",
+        "english_name": "Wigglytuff"
     },
     {
-        "ja": "ズバット",
-        "en": "Zubat"
+        "japanese_name": "ズバット",
+        "english_name": "Zubat"
     },
     {
-        "ja": "ゴルバット",
-        "en": "Golbat"
+        "japanese_name": "ゴルバット",
+        "english_name": "Golbat"
     },
     {
-        "ja": "ナゾノクサ",
-        "en": "Oddish"
+        "japanese_name": "ナゾノクサ",
+        "english_name": "Oddish"
     },
     {
-        "ja": "クサイハナ",
-        "en": "Gloom"
+        "japanese_name": "クサイハナ",
+        "english_name": "Gloom"
     },
     {
-        "ja": "ラフレシア",
-        "en": "Vileplume"
+        "japanese_name": "ラフレシア",
+        "english_name": "Vileplume"
     },
     {
-        "ja": "パラス",
-        "en": "Paras"
+        "japanese_name": "パラス",
+        "english_name": "Paras"
     },
     {
-        "ja": "パラセクト",
-        "en": "Parasect"
+        "japanese_name": "パラセクト",
+        "english_name": "Parasect"
     },
     {
-        "ja": "コンパン",
-        "en": "Venonat"
+        "japanese_name": "コンパン",
+        "english_name": "Venonat"
     },
     {
-        "ja": "モルフォン",
-        "en": "Venomoth"
+        "japanese_name": "モルフォン",
+        "english_name": "Venomoth"
     },
     {
-        "ja": "ディグダ",
-        "en": "Diglett"
+        "japanese_name": "ディグダ",
+        "english_name": "Diglett"
     },
     {
-        "ja": "ダグトリオ",
-        "en": "Dugtrio"
+        "japanese_name": "ダグトリオ",
+        "english_name": "Dugtrio"
     },
     {
-        "ja": "ニャース",
-        "en": "Meowth"
+        "japanese_name": "ニャース",
+        "english_name": "Meowth"
     },
     {
-        "ja": "ペルシアン",
-        "en": "Persian"
+        "japanese_name": "ペルシアン",
+        "english_name": "Persian"
     },
     {
-        "ja": "コダック",
-        "en": "Psyduck"
+        "japanese_name": "コダック",
+        "english_name": "Psyduck"
     },
     {
-        "ja": "ゴルダック",
-        "en": "Golduck"
+        "japanese_name": "ゴルダック",
+        "english_name": "Golduck"
     },
     {
-        "ja": "マンキー",
-        "en": "Mankey"
+        "japanese_name": "マンキー",
+        "english_name": "Mankey"
     },
     {
-        "ja": "オコリザル",
-        "en": "Primeape"
+        "japanese_name": "オコリザル",
+        "english_name": "Primeape"
     },
     {
-        "ja": "ガーディ",
-        "en": "Growlithe"
+        "japanese_name": "ガーディ",
+        "english_name": "Growlithe"
     },
     {
-        "ja": "ウインディ",
-        "en": "Arcanine"
+        "japanese_name": "ウインディ",
+        "english_name": "Arcanine"
     },
     {
-        "ja": "ニョロモ",
-        "en": "Poliwag"
+        "japanese_name": "ニョロモ",
+        "english_name": "Poliwag"
     },
     {
-        "ja": "ニョロゾ",
-        "en": "Poliwhirl"
+        "japanese_name": "ニョロゾ",
+        "english_name": "Poliwhirl"
     },
     {
-        "ja": "ニョロボン",
-        "en": "Poliwrath"
+        "japanese_name": "ニョロボン",
+        "english_name": "Poliwrath"
     },
     {
-        "ja": "ケーシィ",
-        "en": "Abra"
+        "japanese_name": "ケーシィ",
+        "english_name": "Abra"
     },
     {
-        "ja": "ユンゲラー",
-        "en": "Kadabra"
+        "japanese_name": "ユンゲラー",
+        "english_name": "Kadabra"
     },
     {
-        "ja": "フーディン",
-        "en": "Alakazam"
+        "japanese_name": "フーディン",
+        "english_name": "Alakazam"
     },
     {
-        "ja": "ワンリキー",
-        "en": "Machop"
+        "japanese_name": "ワンリキー",
+        "english_name": "Machop"
     },
     {
-        "ja": "ゴーリキー",
-        "en": "Machoke"
+        "japanese_name": "ゴーリキー",
+        "english_name": "Machoke"
     },
     {
-        "ja": "カイリキー",
-        "en": "Machamp"
+        "japanese_name": "カイリキー",
+        "english_name": "Machamp"
     },
     {
-        "ja": "マダツボミ",
-        "en": "Bellsprout"
+        "japanese_name": "マダツボミ",
+        "english_name": "Bellsprout"
     },
     {
-        "ja": "ウツドン",
-        "en": "Weepinbell"
+        "japanese_name": "ウツドン",
+        "english_name": "Weepinbell"
     },
     {
-        "ja": "ウツボット",
-        "en": "Victreebel"
+        "japanese_name": "ウツボット",
+        "english_name": "Victreebel"
     },
     {
-        "ja": "メノクラゲ",
-        "en": "Tentacool"
+        "japanese_name": "メノクラゲ",
+        "english_name": "Tentacool"
     },
     {
-        "ja": "ドククラゲ",
-        "en": "Tentacruel"
+        "japanese_name": "ドククラゲ",
+        "english_name": "Tentacruel"
     },
     {
-        "ja": "イシツブテ",
-        "en": "Geodude"
+        "japanese_name": "イシツブテ",
+        "english_name": "Geodude"
     },
     {
-        "ja": "ゴローン",
-        "en": "Graveler"
+        "japanese_name": "ゴローン",
+        "english_name": "Graveler"
     },
     {
-        "ja": "ゴローニャ",
-        "en": "Golem"
+        "japanese_name": "ゴローニャ",
+        "english_name": "Golem"
     },
     {
-        "ja": "ポニータ",
-        "en": "Ponyta"
+        "japanese_name": "ポニータ",
+        "english_name": "Ponyta"
     },
     {
-        "ja": "ギャロップ",
-        "en": "Rapidash"
+        "japanese_name": "ギャロップ",
+        "english_name": "Rapidash"
     },
     {
-        "ja": "ヤドン",
-        "en": "Slowpoke"
+        "japanese_name": "ヤドン",
+        "english_name": "Slowpoke"
     },
     {
-        "ja": "ヤドラン",
-        "en": "Slowbro"
+        "japanese_name": "ヤドラン",
+        "english_name": "Slowbro"
     },
     {
-        "ja": "コイル",
-        "en": "Magnemite"
+        "japanese_name": "コイル",
+        "english_name": "Magnemite"
     },
     {
-        "ja": "レアコイル",
-        "en": "Magneton"
+        "japanese_name": "レアコイル",
+        "english_name": "Magneton"
     },
     {
-        "ja": "カモネギ",
-        "en": "Farfetch'd"
+        "japanese_name": "カモネギ",
+        "english_name": "Farfetch'd"
     },
     {
-        "ja": "ドードー",
-        "en": "Doduo"
+        "japanese_name": "ドードー",
+        "english_name": "Doduo"
     },
     {
-        "ja": "ドードリオ",
-        "en": "Dodrio"
+        "japanese_name": "ドードリオ",
+        "english_name": "Dodrio"
     },
     {
-        "ja": "パウワウ",
-        "en": "Seel"
+        "japanese_name": "パウワウ",
+        "english_name": "Seel"
     },
     {
-        "ja": "ジュゴン",
-        "en": "Dewgong"
+        "japanese_name": "ジュゴン",
+        "english_name": "Dewgong"
     },
     {
-        "ja": "ベトベター",
-        "en": "Grimer"
+        "japanese_name": "ベトベター",
+        "english_name": "Grimer"
     },
     {
-        "ja": "ベトベトン",
-        "en": "Muk"
+        "japanese_name": "ベトベトン",
+        "english_name": "Muk"
     },
     {
-        "ja": "シェルダー",
-        "en": "Shellder"
+        "japanese_name": "シェルダー",
+        "english_name": "Shellder"
     },
     {
-        "ja": "パルシェン",
-        "en": "Cloyster"
+        "japanese_name": "パルシェン",
+        "english_name": "Cloyster"
     },
     {
-        "ja": "ゴース",
-        "en": "Gastly"
+        "japanese_name": "ゴース",
+        "english_name": "Gastly"
     },
     {
-        "ja": "ゴースト",
-        "en": "Haunter"
+        "japanese_name": "ゴースト",
+        "english_name": "Haunter"
     },
     {
-        "ja": "ゲンガー",
-        "en": "Gengar"
+        "japanese_name": "ゲンガー",
+        "english_name": "Gengar"
     },
     {
-        "ja": "イワーク",
-        "en": "Onix"
+        "japanese_name": "イワーク",
+        "english_name": "Onix"
     },
     {
-        "ja": "スリープ",
-        "en": "Drowzee"
+        "japanese_name": "スリープ",
+        "english_name": "Drowzee"
     },
     {
-        "ja": "スリーパー",
-        "en": "Hypno"
+        "japanese_name": "スリーパー",
+        "english_name": "Hypno"
     },
     {
-        "ja": "クラブ",
-        "en": "Krabby"
+        "japanese_name": "クラブ",
+        "english_name": "Krabby"
     },
     {
-        "ja": "キングラー",
-        "en": "Kingler"
+        "japanese_name": "キングラー",
+        "english_name": "Kingler"
     },
     {
-        "ja": "ビリリダマ",
-        "en": "Voltorb"
+        "japanese_name": "ビリリダマ",
+        "english_name": "Voltorb"
     },
     {
-        "ja": "マルマイン",
-        "en": "Electrode"
+        "japanese_name": "マルマイン",
+        "english_name": "Electrode"
     },
     {
-        "ja": "タマタマ",
-        "en": "Exeggcute"
+        "japanese_name": "タマタマ",
+        "english_name": "Exeggcute"
     },
     {
-        "ja": "ナッシー",
-        "en": "Exeggutor"
+        "japanese_name": "ナッシー",
+        "english_name": "Exeggutor"
     },
     {
-        "ja": "カラカラ",
-        "en": "Cubone"
+        "japanese_name": "カラカラ",
+        "english_name": "Cubone"
     },
     {
-        "ja": "ガラガラ",
-        "en": "Marowak"
+        "japanese_name": "ガラガラ",
+        "english_name": "Marowak"
     },
     {
-        "ja": "サワムラー",
-        "en": "Hitmonlee"
+        "japanese_name": "サワムラー",
+        "english_name": "Hitmonlee"
     },
     {
-        "ja": "エビワラー",
-        "en": "Hitmonchan"
+        "japanese_name": "エビワラー",
+        "english_name": "Hitmonchan"
     },
     {
-        "ja": "ベロリンガ",
-        "en": "Lickitung"
+        "japanese_name": "ベロリンガ",
+        "english_name": "Lickitung"
     },
     {
-        "ja": "ドガース",
-        "en": "Koffing"
+        "japanese_name": "ドガース",
+        "english_name": "Koffing"
     },
     {
-        "ja": "マタドガス",
-        "en": "Weezing"
+        "japanese_name": "マタドガス",
+        "english_name": "Weezing"
     },
     {
-        "ja": "サイホーン",
-        "en": "Rhyhorn"
+        "japanese_name": "サイホーン",
+        "english_name": "Rhyhorn"
     },
     {
-        "ja": "サイドン",
-        "en": "Rhydon"
+        "japanese_name": "サイドン",
+        "english_name": "Rhydon"
     },
     {
-        "ja": "ラッキー",
-        "en": "Chansey"
+        "japanese_name": "ラッキー",
+        "english_name": "Chansey"
     },
     {
-        "ja": "モンジャラ",
-        "en": "Tangela"
+        "japanese_name": "モンジャラ",
+        "english_name": "Tangela"
     },
     {
-        "ja": "ガルーラ",
-        "en": "Kangaskhan"
+        "japanese_name": "ガルーラ",
+        "english_name": "Kangaskhan"
     },
     {
-        "ja": "タッツー",
-        "en": "Horsea"
+        "japanese_name": "タッツー",
+        "english_name": "Horsea"
     },
     {
-        "ja": "シードラ",
-        "en": "Seadra"
+        "japanese_name": "シードラ",
+        "english_name": "Seadra"
     },
     {
-        "ja": "トサキント",
-        "en": "Goldeen"
+        "japanese_name": "トサキント",
+        "english_name": "Goldeen"
     },
     {
-        "ja": "アズマオウ",
-        "en": "Seaking"
+        "japanese_name": "アズマオウ",
+        "english_name": "Seaking"
     },
     {
-        "ja": "ヒトデマン",
-        "en": "Staryu"
+        "japanese_name": "ヒトデマン",
+        "english_name": "Staryu"
     },
     {
-        "ja": "スターミー",
-        "en": "Starmie"
+        "japanese_name": "スターミー",
+        "english_name": "Starmie"
     },
     {
-        "ja": "バリヤード",
-        "en": "Mr. Mime"
+        "japanese_name": "バリヤード",
+        "english_name": "Mr. Mime"
     },
     {
-        "ja": "ストライク",
-        "en": "Scyther"
+        "japanese_name": "ストライク",
+        "english_name": "Scyther"
     },
     {
-        "ja": "ルージュラ",
-        "en": "Jynx"
+        "japanese_name": "ルージュラ",
+        "english_name": "Jynx"
     },
     {
-        "ja": "エレブー",
-        "en": "Electabuzz"
+        "japanese_name": "エレブー",
+        "english_name": "Electabuzz"
     },
     {
-        "ja": "ブーバー",
-        "en": "Magmar"
+        "japanese_name": "ブーバー",
+        "english_name": "Magmar"
     },
     {
-        "ja": "カイロス",
-        "en": "Pinsir"
+        "japanese_name": "カイロス",
+        "english_name": "Pinsir"
     },
     {
-        "ja": "ケンタロス",
-        "en": "Tauros"
+        "japanese_name": "ケンタロス",
+        "english_name": "Tauros"
     },
     {
-        "ja": "コイキング",
-        "en": "Magikarp"
+        "japanese_name": "コイキング",
+        "english_name": "Magikarp"
     },
     {
-        "ja": "ギャラドス",
-        "en": "Gyarados"
+        "japanese_name": "ギャラドス",
+        "english_name": "Gyarados"
     },
     {
-        "ja": "ラプラス",
-        "en": "Lapras"
+        "japanese_name": "ラプラス",
+        "english_name": "Lapras"
     },
     {
-        "ja": "メタモン",
-        "en": "Ditto"
+        "japanese_name": "メタモン",
+        "english_name": "Ditto"
     },
     {
-        "ja": "イーブイ",
-        "en": "Eevee"
+        "japanese_name": "イーブイ",
+        "english_name": "Eevee"
     },
     {
-        "ja": "シャワーズ",
-        "en": "Vaporeon"
+        "japanese_name": "シャワーズ",
+        "english_name": "Vaporeon"
     },
     {
-        "ja": "サンダース",
-        "en": "Jolteon"
+        "japanese_name": "サンダース",
+        "english_name": "Jolteon"
     },
     {
-        "ja": "ブースター",
-        "en": "Flareon"
+        "japanese_name": "ブースター",
+        "english_name": "Flareon"
     },
     {
-        "ja": "ポリゴン",
-        "en": "Porygon"
+        "japanese_name": "ポリゴン",
+        "english_name": "Porygon"
     },
     {
-        "ja": "オムナイト",
-        "en": "Omanyte"
+        "japanese_name": "オムナイト",
+        "english_name": "Omanyte"
     },
     {
-        "ja": "オムスター",
-        "en": "Omastar"
+        "japanese_name": "オムスター",
+        "english_name": "Omastar"
     },
     {
-        "ja": "カブト",
-        "en": "Kabuto"
+        "japanese_name": "カブト",
+        "english_name": "Kabuto"
     },
     {
-        "ja": "カブトプス",
-        "en": "Kabutops"
+        "japanese_name": "カブトプス",
+        "english_name": "Kabutops"
     },
     {
-        "ja": "プテラ",
-        "en": "Aerodactyl"
+        "japanese_name": "プテラ",
+        "english_name": "Aerodactyl"
     },
     {
-        "ja": "カビゴン",
-        "en": "Snorlax"
+        "japanese_name": "カビゴン",
+        "english_name": "Snorlax"
     },
     {
-        "ja": "フリーザー",
-        "en": "Articuno"
+        "japanese_name": "フリーザー",
+        "english_name": "Articuno"
     },
     {
-        "ja": "サンダー",
-        "en": "Zapdos"
+        "japanese_name": "サンダー",
+        "english_name": "Zapdos"
     },
     {
-        "ja": "ファイヤー",
-        "en": "Moltres"
+        "japanese_name": "ファイヤー",
+        "english_name": "Moltres"
     },
     {
-        "ja": "ミニリュウ",
-        "en": "Dratini"
+        "japanese_name": "ミニリュウ",
+        "english_name": "Dratini"
     },
     {
-        "ja": "ハクリュー",
-        "en": "Dragonair"
+        "japanese_name": "ハクリュー",
+        "english_name": "Dragonair"
     },
     {
-        "ja": "カイリュー",
-        "en": "Dragonite"
+        "japanese_name": "カイリュー",
+        "english_name": "Dragonite"
     },
     {
-        "ja": "ミュウツー",
-        "en": "Mewtwo"
+        "japanese_name": "ミュウツー",
+        "english_name": "Mewtwo"
     },
     {
-        "ja": "ミュウ",
-        "en": "Mew"
+        "japanese_name": "ミュウ",
+        "english_name": "Mew"
     },
     {
-        "ja": "チコリータ",
-        "en": "Chikorita"
+        "japanese_name": "チコリータ",
+        "english_name": "Chikorita"
     },
     {
-        "ja": "ベイリーフ",
-        "en": "Bayleef"
+        "japanese_name": "ベイリーフ",
+        "english_name": "Bayleef"
     },
     {
-        "ja": "メガニウム",
-        "en": "Meganium"
+        "japanese_name": "メガニウム",
+        "english_name": "Meganium"
     },
     {
-        "ja": "ヒノアラシ",
-        "en": "Cyndaquil"
+        "japanese_name": "ヒノアラシ",
+        "english_name": "Cyndaquil"
     },
     {
-        "ja": "マグマラシ",
-        "en": "Quilava"
+        "japanese_name": "マグマラシ",
+        "english_name": "Quilava"
     },
     {
-        "ja": "バクフーン",
-        "en": "Typhlosion"
+        "japanese_name": "バクフーン",
+        "english_name": "Typhlosion"
     },
     {
-        "ja": "ワニノコ",
-        "en": "Totodile"
+        "japanese_name": "ワニノコ",
+        "english_name": "Totodile"
     },
     {
-        "ja": "アリゲイツ",
-        "en": "Croconaw"
+        "japanese_name": "アリゲイツ",
+        "english_name": "Croconaw"
     },
     {
-        "ja": "オーダイル",
-        "en": "Feraligatr"
+        "japanese_name": "オーダイル",
+        "english_name": "Feraligatr"
     },
     {
-        "ja": "オタチ",
-        "en": "Sentret"
+        "japanese_name": "オタチ",
+        "english_name": "Sentret"
     },
     {
-        "ja": "オオタチ",
-        "en": "Furret"
+        "japanese_name": "オオタチ",
+        "english_name": "Furret"
     },
     {
-        "ja": "ホーホー",
-        "en": "Hoothoot"
+        "japanese_name": "ホーホー",
+        "english_name": "Hoothoot"
     },
     {
-        "ja": "ヨルノズク",
-        "en": "Noctowl"
+        "japanese_name": "ヨルノズク",
+        "english_name": "Noctowl"
     },
     {
-        "ja": "レディバ",
-        "en": "Ledyba"
+        "japanese_name": "レディバ",
+        "english_name": "Ledyba"
     },
     {
-        "ja": "レディアン",
-        "en": "Ledian"
+        "japanese_name": "レディアン",
+        "english_name": "Ledian"
     },
     {
-        "ja": "イトマル",
-        "en": "Spinarak"
+        "japanese_name": "イトマル",
+        "english_name": "Spinarak"
     },
     {
-        "ja": "アリアドス",
-        "en": "Ariados"
+        "japanese_name": "アリアドス",
+        "english_name": "Ariados"
     },
     {
-        "ja": "クロバット",
-        "en": "Crobat"
+        "japanese_name": "クロバット",
+        "english_name": "Crobat"
     },
     {
-        "ja": "チョンチー",
-        "en": "Chinchou"
+        "japanese_name": "チョンチー",
+        "english_name": "Chinchou"
     },
     {
-        "ja": "ランターン",
-        "en": "Lanturn"
+        "japanese_name": "ランターン",
+        "english_name": "Lanturn"
     },
     {
-        "ja": "ピチュー",
-        "en": "Pichu"
+        "japanese_name": "ピチュー",
+        "english_name": "Pichu"
     },
     {
-        "ja": "ピィ",
-        "en": "Cleffa"
+        "japanese_name": "ピィ",
+        "english_name": "Cleffa"
     },
     {
-        "ja": "ププリン",
-        "en": "Igglybuff"
+        "japanese_name": "ププリン",
+        "english_name": "Igglybuff"
     },
     {
-        "ja": "トゲピー",
-        "en": "Togepi"
+        "japanese_name": "トゲピー",
+        "english_name": "Togepi"
     },
     {
-        "ja": "トゲチック",
-        "en": "Togetic"
+        "japanese_name": "トゲチック",
+        "english_name": "Togetic"
     },
     {
-        "ja": "ネイティ",
-        "en": "Natu"
+        "japanese_name": "ネイティ",
+        "english_name": "Natu"
     },
     {
-        "ja": "ネイティオ",
-        "en": "Xatu"
+        "japanese_name": "ネイティオ",
+        "english_name": "Xatu"
     },
     {
-        "ja": "メリープ",
-        "en": "Mareep"
+        "japanese_name": "メリープ",
+        "english_name": "Mareep"
     },
     {
-        "ja": "モココ",
-        "en": "Flaaffy"
+        "japanese_name": "モココ",
+        "english_name": "Flaaffy"
     },
     {
-        "ja": "デンリュウ",
-        "en": "Ampharos"
+        "japanese_name": "デンリュウ",
+        "english_name": "Ampharos"
     },
     {
-        "ja": "キレイハナ",
-        "en": "Bellossom"
+        "japanese_name": "キレイハナ",
+        "english_name": "Bellossom"
     },
     {
-        "ja": "マリル",
-        "en": "Marill"
+        "japanese_name": "マリル",
+        "english_name": "Marill"
     },
     {
-        "ja": "マリルリ",
-        "en": "Azumarill"
+        "japanese_name": "マリルリ",
+        "english_name": "Azumarill"
     },
     {
-        "ja": "ウソッキー",
-        "en": "Sudowoodo"
+        "japanese_name": "ウソッキー",
+        "english_name": "Sudowoodo"
     },
     {
-        "ja": "ニョロトノ",
-        "en": "Politoed"
+        "japanese_name": "ニョロトノ",
+        "english_name": "Politoed"
     },
     {
-        "ja": "ハネッコ",
-        "en": "Hoppip"
+        "japanese_name": "ハネッコ",
+        "english_name": "Hoppip"
     },
     {
-        "ja": "ポポッコ",
-        "en": "Skiploom"
+        "japanese_name": "ポポッコ",
+        "english_name": "Skiploom"
     },
     {
-        "ja": "ワタッコ",
-        "en": "Jumpluff"
+        "japanese_name": "ワタッコ",
+        "english_name": "Jumpluff"
     },
     {
-        "ja": "エイパム",
-        "en": "Aipom"
+        "japanese_name": "エイパム",
+        "english_name": "Aipom"
     },
     {
-        "ja": "ヒマナッツ",
-        "en": "Sunkern"
+        "japanese_name": "ヒマナッツ",
+        "english_name": "Sunkern"
     },
     {
-        "ja": "キマワリ",
-        "en": "Sunflora"
+        "japanese_name": "キマワリ",
+        "english_name": "Sunflora"
     },
     {
-        "ja": "ヤンヤンマ",
-        "en": "Yanma"
+        "japanese_name": "ヤンヤンマ",
+        "english_name": "Yanma"
     },
     {
-        "ja": "ウパー",
-        "en": "Wooper"
+        "japanese_name": "ウパー",
+        "english_name": "Wooper"
     },
     {
-        "ja": "ヌオー",
-        "en": "Quagsire"
+        "japanese_name": "ヌオー",
+        "english_name": "Quagsire"
     },
     {
-        "ja": "エーフィ",
-        "en": "Espeon"
+        "japanese_name": "エーフィ",
+        "english_name": "Espeon"
     },
     {
-        "ja": "ブラッキー",
-        "en": "Umbreon"
+        "japanese_name": "ブラッキー",
+        "english_name": "Umbreon"
     },
     {
-        "ja": "ヤミカラス",
-        "en": "Murkrow"
+        "japanese_name": "ヤミカラス",
+        "english_name": "Murkrow"
     },
     {
-        "ja": "ヤドキング",
-        "en": "Slowking"
+        "japanese_name": "ヤドキング",
+        "english_name": "Slowking"
     },
     {
-        "ja": "ムウマ",
-        "en": "Misdreavus"
+        "japanese_name": "ムウマ",
+        "english_name": "Misdreavus"
     },
     {
-        "ja": "アンノーン",
-        "en": "Unown"
+        "japanese_name": "アンノーン",
+        "english_name": "Unown"
     },
     {
-        "ja": "ソーナンス",
-        "en": "Wobbuffet"
+        "japanese_name": "ソーナンス",
+        "english_name": "Wobbuffet"
     },
     {
-        "ja": "キリンリキ",
-        "en": "Girafarig"
+        "japanese_name": "キリンリキ",
+        "english_name": "Girafarig"
     },
     {
-        "ja": "クヌギダマ",
-        "en": "Pineco"
+        "japanese_name": "クヌギダマ",
+        "english_name": "Pineco"
     },
     {
-        "ja": "フォレトス",
-        "en": "Forretress"
+        "japanese_name": "フォレトス",
+        "english_name": "Forretress"
     },
     {
-        "ja": "ノコッチ",
-        "en": "Dunsparce"
+        "japanese_name": "ノコッチ",
+        "english_name": "Dunsparce"
     },
     {
-        "ja": "グライガー",
-        "en": "Gligar"
+        "japanese_name": "グライガー",
+        "english_name": "Gligar"
     },
     {
-        "ja": "ハガネール",
-        "en": "Steelix"
+        "japanese_name": "ハガネール",
+        "english_name": "Steelix"
     },
     {
-        "ja": "ブルー",
-        "en": "Snubbull"
+        "japanese_name": "ブルー",
+        "english_name": "Snubbull"
     },
     {
-        "ja": "グランブル",
-        "en": "Granbull"
+        "japanese_name": "グランブル",
+        "english_name": "Granbull"
     },
     {
-        "ja": "ハリーセン",
-        "en": "Qwilfish"
+        "japanese_name": "ハリーセン",
+        "english_name": "Qwilfish"
     },
     {
-        "ja": "ハッサム",
-        "en": "Scizor"
+        "japanese_name": "ハッサム",
+        "english_name": "Scizor"
     },
     {
-        "ja": "ツボツボ",
-        "en": "Shuckle"
+        "japanese_name": "ツボツボ",
+        "english_name": "Shuckle"
     },
     {
-        "ja": "ヘラクロス",
-        "en": "Heracross"
+        "japanese_name": "ヘラクロス",
+        "english_name": "Heracross"
     },
     {
-        "ja": "ニューラ",
-        "en": "Sneasel"
+        "japanese_name": "ニューラ",
+        "english_name": "Sneasel"
     },
     {
-        "ja": "ヒメグマ",
-        "en": "Teddiursa"
+        "japanese_name": "ヒメグマ",
+        "english_name": "Teddiursa"
     },
     {
-        "ja": "リングマ",
-        "en": "Ursaring"
+        "japanese_name": "リングマ",
+        "english_name": "Ursaring"
     },
     {
-        "ja": "マグマッグ",
-        "en": "Slugma"
+        "japanese_name": "マグマッグ",
+        "english_name": "Slugma"
     },
     {
-        "ja": "マグカルゴ",
-        "en": "Magcargo"
+        "japanese_name": "マグカルゴ",
+        "english_name": "Magcargo"
     },
     {
-        "ja": "ウリムー",
-        "en": "Swinub"
+        "japanese_name": "ウリムー",
+        "english_name": "Swinub"
     },
     {
-        "ja": "イノムー",
-        "en": "Piloswine"
+        "japanese_name": "イノムー",
+        "english_name": "Piloswine"
     },
     {
-        "ja": "サニーゴ",
-        "en": "Corsola"
+        "japanese_name": "サニーゴ",
+        "english_name": "Corsola"
     },
     {
-        "ja": "テッポウオ",
-        "en": "Remoraid"
+        "japanese_name": "テッポウオ",
+        "english_name": "Remoraid"
     },
     {
-        "ja": "オクタン",
-        "en": "Octillery"
+        "japanese_name": "オクタン",
+        "english_name": "Octillery"
     },
     {
-        "ja": "デリバード",
-        "en": "Delibird"
+        "japanese_name": "デリバード",
+        "english_name": "Delibird"
     },
     {
-        "ja": "マンタイン",
-        "en": "Mantine"
+        "japanese_name": "マンタイン",
+        "english_name": "Mantine"
     },
     {
-        "ja": "エアームド",
-        "en": "Skarmory"
+        "japanese_name": "エアームド",
+        "english_name": "Skarmory"
     },
     {
-        "ja": "デルビル",
-        "en": "Houndour"
+        "japanese_name": "デルビル",
+        "english_name": "Houndour"
     },
     {
-        "ja": "ヘルガー",
-        "en": "Houndoom"
+        "japanese_name": "ヘルガー",
+        "english_name": "Houndoom"
     },
     {
-        "ja": "キングドラ",
-        "en": "Kingdra"
+        "japanese_name": "キングドラ",
+        "english_name": "Kingdra"
     },
     {
-        "ja": "ゴマゾウ",
-        "en": "Phanpy"
+        "japanese_name": "ゴマゾウ",
+        "english_name": "Phanpy"
     },
     {
-        "ja": "ドンファン",
-        "en": "Donphan"
+        "japanese_name": "ドンファン",
+        "english_name": "Donphan"
     },
     {
-        "ja": "ポリゴン2",
-        "en": "Porygon2"
+        "japanese_name": "ポリゴン2",
+        "english_name": "Porygon2"
     },
     {
-        "ja": "オドシシ",
-        "en": "Stantler"
+        "japanese_name": "オドシシ",
+        "english_name": "Stantler"
     },
     {
-        "ja": "ドーブル",
-        "en": "Smeargle"
+        "japanese_name": "ドーブル",
+        "english_name": "Smeargle"
     },
     {
-        "ja": "バルキー",
-        "en": "Tyrogue"
+        "japanese_name": "バルキー",
+        "english_name": "Tyrogue"
     },
     {
-        "ja": "カポエラー",
-        "en": "Hitmontop"
+        "japanese_name": "カポエラー",
+        "english_name": "Hitmontop"
     },
     {
-        "ja": "ムチュール",
-        "en": "Smoochum"
+        "japanese_name": "ムチュール",
+        "english_name": "Smoochum"
     },
     {
-        "ja": "エレキッド",
-        "en": "Elekid"
+        "japanese_name": "エレキッド",
+        "english_name": "Elekid"
     },
     {
-        "ja": "ブビィ",
-        "en": "Magby"
+        "japanese_name": "ブビィ",
+        "english_name": "Magby"
     },
     {
-        "ja": "ミルタンク",
-        "en": "Miltank"
+        "japanese_name": "ミルタンク",
+        "english_name": "Miltank"
     },
     {
-        "ja": "ハピナス",
-        "en": "Blissey"
+        "japanese_name": "ハピナス",
+        "english_name": "Blissey"
     },
     {
-        "ja": "ライコウ",
-        "en": "Raikou"
+        "japanese_name": "ライコウ",
+        "english_name": "Raikou"
     },
     {
-        "ja": "エンテイ",
-        "en": "Entei"
+        "japanese_name": "エンテイ",
+        "english_name": "Entei"
     },
     {
-        "ja": "スイクン",
-        "en": "Suicune"
+        "japanese_name": "スイクン",
+        "english_name": "Suicune"
     },
     {
-        "ja": "ヨーギラス",
-        "en": "Larvitar"
+        "japanese_name": "ヨーギラス",
+        "english_name": "Larvitar"
     },
     {
-        "ja": "サナギラス",
-        "en": "Pupitar"
+        "japanese_name": "サナギラス",
+        "english_name": "Pupitar"
     },
     {
-        "ja": "バンギラス",
-        "en": "Tyranitar"
+        "japanese_name": "バンギラス",
+        "english_name": "Tyranitar"
     },
     {
-        "ja": "ルギア",
-        "en": "Lugia"
+        "japanese_name": "ルギア",
+        "english_name": "Lugia"
     },
     {
-        "ja": "ホウオウ",
-        "en": "Ho-Oh"
+        "japanese_name": "ホウオウ",
+        "english_name": "Ho-Oh"
     },
     {
-        "ja": "セレビィ",
-        "en": "Celebi"
+        "japanese_name": "セレビィ",
+        "english_name": "Celebi"
     },
     {
-        "ja": "キモリ",
-        "en": "Treecko"
+        "japanese_name": "キモリ",
+        "english_name": "Treecko"
     },
     {
-        "ja": "ジュプトル",
-        "en": "Grovyle"
+        "japanese_name": "ジュプトル",
+        "english_name": "Grovyle"
     },
     {
-        "ja": "ジュカイン",
-        "en": "Sceptile"
+        "japanese_name": "ジュカイン",
+        "english_name": "Sceptile"
     },
     {
-        "ja": "アチャモ",
-        "en": "Torchic"
+        "japanese_name": "アチャモ",
+        "english_name": "Torchic"
     },
     {
-        "ja": "ワカシャモ",
-        "en": "Combusken"
+        "japanese_name": "ワカシャモ",
+        "english_name": "Combusken"
     },
     {
-        "ja": "バシャーモ",
-        "en": "Blaziken"
+        "japanese_name": "バシャーモ",
+        "english_name": "Blaziken"
     },
     {
-        "ja": "ミズゴロウ",
-        "en": "Mudkip"
+        "japanese_name": "ミズゴロウ",
+        "english_name": "Mudkip"
     },
     {
-        "ja": "ヌマクロー",
-        "en": "Marshtomp"
+        "japanese_name": "ヌマクロー",
+        "english_name": "Marshtomp"
     },
     {
-        "ja": "ラグラージ",
-        "en": "Swampert"
+        "japanese_name": "ラグラージ",
+        "english_name": "Swampert"
     },
     {
-        "ja": "ポチエナ",
-        "en": "Poochyena"
+        "japanese_name": "ポチエナ",
+        "english_name": "Poochyena"
     },
     {
-        "ja": "グラエナ",
-        "en": "Mightyena"
+        "japanese_name": "グラエナ",
+        "english_name": "Mightyena"
     },
     {
-        "ja": "ジグザグマ",
-        "en": "Zigzagoon"
+        "japanese_name": "ジグザグマ",
+        "english_name": "Zigzagoon"
     },
     {
-        "ja": "マッスグマ",
-        "en": "Linoone"
+        "japanese_name": "マッスグマ",
+        "english_name": "Linoone"
     },
     {
-        "ja": "ケムッソ",
-        "en": "Wurmple"
+        "japanese_name": "ケムッソ",
+        "english_name": "Wurmple"
     },
     {
-        "ja": "カラサリス",
-        "en": "Silcoon"
+        "japanese_name": "カラサリス",
+        "english_name": "Silcoon"
     },
     {
-        "ja": "アゲハント",
-        "en": "Beautifly"
+        "japanese_name": "アゲハント",
+        "english_name": "Beautifly"
     },
     {
-        "ja": "マユルド",
-        "en": "Cascoon"
+        "japanese_name": "マユルド",
+        "english_name": "Cascoon"
     },
     {
-        "ja": "ドクケイル",
-        "en": "Dustox"
+        "japanese_name": "ドクケイル",
+        "english_name": "Dustox"
     },
     {
-        "ja": "ハスボー",
-        "en": "Lotad"
+        "japanese_name": "ハスボー",
+        "english_name": "Lotad"
     },
     {
-        "ja": "ハスブレロ",
-        "en": "Lombre"
+        "japanese_name": "ハスブレロ",
+        "english_name": "Lombre"
     },
     {
-        "ja": "ルンパッパ",
-        "en": "Ludicolo"
+        "japanese_name": "ルンパッパ",
+        "english_name": "Ludicolo"
     },
     {
-        "ja": "タネボー",
-        "en": "Seedot"
+        "japanese_name": "タネボー",
+        "english_name": "Seedot"
     },
     {
-        "ja": "コノハナ",
-        "en": "Nuzleaf"
+        "japanese_name": "コノハナ",
+        "english_name": "Nuzleaf"
     },
     {
-        "ja": "ダーテング",
-        "en": "Shiftry"
+        "japanese_name": "ダーテング",
+        "english_name": "Shiftry"
     },
     {
-        "ja": "スバメ",
-        "en": "Taillow"
+        "japanese_name": "スバメ",
+        "english_name": "Taillow"
     },
     {
-        "ja": "オオスバメ",
-        "en": "Swellow"
+        "japanese_name": "オオスバメ",
+        "english_name": "Swellow"
     },
     {
-        "ja": "キャモメ",
-        "en": "Wingull"
+        "japanese_name": "キャモメ",
+        "english_name": "Wingull"
     },
     {
-        "ja": "ペリッパー",
-        "en": "Pelipper"
+        "japanese_name": "ペリッパー",
+        "english_name": "Pelipper"
     },
     {
-        "ja": "ラルトス",
-        "en": "Ralts"
+        "japanese_name": "ラルトス",
+        "english_name": "Ralts"
     },
     {
-        "ja": "キルリア",
-        "en": "Kirlia"
+        "japanese_name": "キルリア",
+        "english_name": "Kirlia"
     },
     {
-        "ja": "サーナイト",
-        "en": "Gardevoir"
+        "japanese_name": "サーナイト",
+        "english_name": "Gardevoir"
     },
     {
-        "ja": "アメタマ",
-        "en": "Surskit"
+        "japanese_name": "アメタマ",
+        "english_name": "Surskit"
     },
     {
-        "ja": "アメモース",
-        "en": "Masquerain"
+        "japanese_name": "アメモース",
+        "english_name": "Masquerain"
     },
     {
-        "ja": "キノココ",
-        "en": "Shroomish"
+        "japanese_name": "キノココ",
+        "english_name": "Shroomish"
     },
     {
-        "ja": "キノガッサ",
-        "en": "Breloom"
+        "japanese_name": "キノガッサ",
+        "english_name": "Breloom"
     },
     {
-        "ja": "ナマケロ",
-        "en": "Slakoth"
+        "japanese_name": "ナマケロ",
+        "english_name": "Slakoth"
     },
     {
-        "ja": "ヤルキモノ",
-        "en": "Vigoroth"
+        "japanese_name": "ヤルキモノ",
+        "english_name": "Vigoroth"
     },
     {
-        "ja": "ケッキング",
-        "en": "Slaking"
+        "japanese_name": "ケッキング",
+        "english_name": "Slaking"
     },
     {
-        "ja": "ツチニン",
-        "en": "Nincada"
+        "japanese_name": "ツチニン",
+        "english_name": "Nincada"
     },
     {
-        "ja": "テッカニン",
-        "en": "Ninjask"
+        "japanese_name": "テッカニン",
+        "english_name": "Ninjask"
     },
     {
-        "ja": "ヌケニン",
-        "en": "Shedinja"
+        "japanese_name": "ヌケニン",
+        "english_name": "Shedinja"
     },
     {
-        "ja": "ゴニョニョ",
-        "en": "Whismur"
+        "japanese_name": "ゴニョニョ",
+        "english_name": "Whismur"
     },
     {
-        "ja": "ドゴーム",
-        "en": "Loudred"
+        "japanese_name": "ドゴーム",
+        "english_name": "Loudred"
     },
     {
-        "ja": "バクオング",
-        "en": "Exploud"
+        "japanese_name": "バクオング",
+        "english_name": "Exploud"
     },
     {
-        "ja": "マクノシタ",
-        "en": "Makuhita"
+        "japanese_name": "マクノシタ",
+        "english_name": "Makuhita"
     },
     {
-        "ja": "ハリテヤマ",
-        "en": "Hariyama"
+        "japanese_name": "ハリテヤマ",
+        "english_name": "Hariyama"
     },
     {
-        "ja": "ルリリ",
-        "en": "Azurill"
+        "japanese_name": "ルリリ",
+        "english_name": "Azurill"
     },
     {
-        "ja": "ノズパス",
-        "en": "Nosepass"
+        "japanese_name": "ノズパス",
+        "english_name": "Nosepass"
     },
     {
-        "ja": "エネコ",
-        "en": "Skitty"
+        "japanese_name": "エネコ",
+        "english_name": "Skitty"
     },
     {
-        "ja": "エネコロロ",
-        "en": "Delcatty"
+        "japanese_name": "エネコロロ",
+        "english_name": "Delcatty"
     },
     {
-        "ja": "ヤミラミ",
-        "en": "Sableye"
+        "japanese_name": "ヤミラミ",
+        "english_name": "Sableye"
     },
     {
-        "ja": "クチート",
-        "en": "Mawile"
+        "japanese_name": "クチート",
+        "english_name": "Mawile"
     },
     {
-        "ja": "ココドラ",
-        "en": "Aron"
+        "japanese_name": "ココドラ",
+        "english_name": "Aron"
     },
     {
-        "ja": "コドラ",
-        "en": "Lairon"
+        "japanese_name": "コドラ",
+        "english_name": "Lairon"
     },
     {
-        "ja": "ボスゴドラ",
-        "en": "Aggron"
+        "japanese_name": "ボスゴドラ",
+        "english_name": "Aggron"
     },
     {
-        "ja": "アサナン",
-        "en": "Meditite"
+        "japanese_name": "アサナン",
+        "english_name": "Meditite"
     },
     {
-        "ja": "チャーレム",
-        "en": "Medicham"
+        "japanese_name": "チャーレム",
+        "english_name": "Medicham"
     },
     {
-        "ja": "ラクライ",
-        "en": "Electrike"
+        "japanese_name": "ラクライ",
+        "english_name": "Electrike"
     },
     {
-        "ja": "ライボルト",
-        "en": "Manectric"
+        "japanese_name": "ライボルト",
+        "english_name": "Manectric"
     },
     {
-        "ja": "プラスル",
-        "en": "Plusle"
+        "japanese_name": "プラスル",
+        "english_name": "Plusle"
     },
     {
-        "ja": "マイナン",
-        "en": "Minun"
+        "japanese_name": "マイナン",
+        "english_name": "Minun"
     },
     {
-        "ja": "バルビート",
-        "en": "Volbeat"
+        "japanese_name": "バルビート",
+        "english_name": "Volbeat"
     },
     {
-        "ja": "イルミーゼ",
-        "en": "Illumise"
+        "japanese_name": "イルミーゼ",
+        "english_name": "Illumise"
     },
     {
-        "ja": "ロゼリア",
-        "en": "Roselia"
+        "japanese_name": "ロゼリア",
+        "english_name": "Roselia"
     },
     {
-        "ja": "ゴクリン",
-        "en": "Gulpin"
+        "japanese_name": "ゴクリン",
+        "english_name": "Gulpin"
     },
     {
-        "ja": "マルノーム",
-        "en": "Swalot"
+        "japanese_name": "マルノーム",
+        "english_name": "Swalot"
     },
     {
-        "ja": "キバニア",
-        "en": "Carvanha"
+        "japanese_name": "キバニア",
+        "english_name": "Carvanha"
     },
     {
-        "ja": "サメハダー",
-        "en": "Sharpedo"
+        "japanese_name": "サメハダー",
+        "english_name": "Sharpedo"
     },
     {
-        "ja": "ホエルコ",
-        "en": "Wailmer"
+        "japanese_name": "ホエルコ",
+        "english_name": "Wailmer"
     },
     {
-        "ja": "ホエルオー",
-        "en": "Wailord"
+        "japanese_name": "ホエルオー",
+        "english_name": "Wailord"
     },
     {
-        "ja": "ドンメル",
-        "en": "Numel"
+        "japanese_name": "ドンメル",
+        "english_name": "Numel"
     },
     {
-        "ja": "バクーダ",
-        "en": "Camerupt"
+        "japanese_name": "バクーダ",
+        "english_name": "Camerupt"
     },
     {
-        "ja": "コータス",
-        "en": "Torkoal"
+        "japanese_name": "コータス",
+        "english_name": "Torkoal"
     },
     {
-        "ja": "バネブー",
-        "en": "Spoink"
+        "japanese_name": "バネブー",
+        "english_name": "Spoink"
     },
     {
-        "ja": "ブーピッグ",
-        "en": "Grumpig"
+        "japanese_name": "ブーピッグ",
+        "english_name": "Grumpig"
     },
     {
-        "ja": "パッチール",
-        "en": "Spinda"
+        "japanese_name": "パッチール",
+        "english_name": "Spinda"
     },
     {
-        "ja": "ナックラー",
-        "en": "Trapinch"
+        "japanese_name": "ナックラー",
+        "english_name": "Trapinch"
     },
     {
-        "ja": "ビブラーバ",
-        "en": "Vibrava"
+        "japanese_name": "ビブラーバ",
+        "english_name": "Vibrava"
     },
     {
-        "ja": "フライゴン",
-        "en": "Flygon"
+        "japanese_name": "フライゴン",
+        "english_name": "Flygon"
     },
     {
-        "ja": "サボネア",
-        "en": "Cacnea"
+        "japanese_name": "サボネア",
+        "english_name": "Cacnea"
     },
     {
-        "ja": "ノクタス",
-        "en": "Cacturne"
+        "japanese_name": "ノクタス",
+        "english_name": "Cacturne"
     },
     {
-        "ja": "チルット",
-        "en": "Swablu"
+        "japanese_name": "チルット",
+        "english_name": "Swablu"
     },
     {
-        "ja": "チルタリス",
-        "en": "Altaria"
+        "japanese_name": "チルタリス",
+        "english_name": "Altaria"
     },
     {
-        "ja": "ザングース",
-        "en": "Zangoose"
+        "japanese_name": "ザングース",
+        "english_name": "Zangoose"
     },
     {
-        "ja": "ハブネーク",
-        "en": "Seviper"
+        "japanese_name": "ハブネーク",
+        "english_name": "Seviper"
     },
     {
-        "ja": "ルナトーン",
-        "en": "Lunatone"
+        "japanese_name": "ルナトーン",
+        "english_name": "Lunatone"
     },
     {
-        "ja": "ソルロック",
-        "en": "Solrock"
+        "japanese_name": "ソルロック",
+        "english_name": "Solrock"
     },
     {
-        "ja": "ドジョッチ",
-        "en": "Barboach"
+        "japanese_name": "ドジョッチ",
+        "english_name": "Barboach"
     },
     {
-        "ja": "ナマズン",
-        "en": "Whiscash"
+        "japanese_name": "ナマズン",
+        "english_name": "Whiscash"
     },
     {
-        "ja": "ヘイガニ",
-        "en": "Corphish"
+        "japanese_name": "ヘイガニ",
+        "english_name": "Corphish"
     },
     {
-        "ja": "シザリガー",
-        "en": "Crawdaunt"
+        "japanese_name": "シザリガー",
+        "english_name": "Crawdaunt"
     },
     {
-        "ja": "ヤジロン",
-        "en": "Baltoy"
+        "japanese_name": "ヤジロン",
+        "english_name": "Baltoy"
     },
     {
-        "ja": "ネンドール",
-        "en": "Claydol"
+        "japanese_name": "ネンドール",
+        "english_name": "Claydol"
     },
     {
-        "ja": "リリーラ",
-        "en": "Lileep"
+        "japanese_name": "リリーラ",
+        "english_name": "Lileep"
     },
     {
-        "ja": "ユレイドル",
-        "en": "Cradily"
+        "japanese_name": "ユレイドル",
+        "english_name": "Cradily"
     },
     {
-        "ja": "アノプス",
-        "en": "Anorith"
+        "japanese_name": "アノプス",
+        "english_name": "Anorith"
     },
     {
-        "ja": "アーマルド",
-        "en": "Armaldo"
+        "japanese_name": "アーマルド",
+        "english_name": "Armaldo"
     },
     {
-        "ja": "ヒンバス",
-        "en": "Feebas"
+        "japanese_name": "ヒンバス",
+        "english_name": "Feebas"
     },
     {
-        "ja": "ミロカロス",
-        "en": "Milotic"
+        "japanese_name": "ミロカロス",
+        "english_name": "Milotic"
     },
     {
-        "ja": "ポワルン",
-        "en": "Castform"
+        "japanese_name": "ポワルン",
+        "english_name": "Castform"
     },
     {
-        "ja": "カクレオン",
-        "en": "Kecleon"
+        "japanese_name": "カクレオン",
+        "english_name": "Kecleon"
     },
     {
-        "ja": "カゲボウズ",
-        "en": "Shuppet"
+        "japanese_name": "カゲボウズ",
+        "english_name": "Shuppet"
     },
     {
-        "ja": "ジュペッタ",
-        "en": "Banette"
+        "japanese_name": "ジュペッタ",
+        "english_name": "Banette"
     },
     {
-        "ja": "ヨマワル",
-        "en": "Duskull"
+        "japanese_name": "ヨマワル",
+        "english_name": "Duskull"
     },
     {
-        "ja": "サマヨール",
-        "en": "Dusclops"
+        "japanese_name": "サマヨール",
+        "english_name": "Dusclops"
     },
     {
-        "ja": "トロピウス",
-        "en": "Tropius"
+        "japanese_name": "トロピウス",
+        "english_name": "Tropius"
     },
     {
-        "ja": "チリーン",
-        "en": "Chimecho"
+        "japanese_name": "チリーン",
+        "english_name": "Chimecho"
     },
     {
-        "ja": "アブソル",
-        "en": "Absol"
+        "japanese_name": "アブソル",
+        "english_name": "Absol"
     },
     {
-        "ja": "ソーナノ",
-        "en": "Wynaut"
+        "japanese_name": "ソーナノ",
+        "english_name": "Wynaut"
     },
     {
-        "ja": "ユキワラシ",
-        "en": "Snorunt"
+        "japanese_name": "ユキワラシ",
+        "english_name": "Snorunt"
     },
     {
-        "ja": "オニゴーリ",
-        "en": "Glalie"
+        "japanese_name": "オニゴーリ",
+        "english_name": "Glalie"
     },
     {
-        "ja": "タマザラシ",
-        "en": "Spheal"
+        "japanese_name": "タマザラシ",
+        "english_name": "Spheal"
     },
     {
-        "ja": "トドグラー",
-        "en": "Sealeo"
+        "japanese_name": "トドグラー",
+        "english_name": "Sealeo"
     },
     {
-        "ja": "トドゼルガ",
-        "en": "Walrein"
+        "japanese_name": "トドゼルガ",
+        "english_name": "Walrein"
     },
     {
-        "ja": "パールル",
-        "en": "Clamperl"
+        "japanese_name": "パールル",
+        "english_name": "Clamperl"
     },
     {
-        "ja": "ハンテール",
-        "en": "Huntail"
+        "japanese_name": "ハンテール",
+        "english_name": "Huntail"
     },
     {
-        "ja": "サクラビス",
-        "en": "Gorebyss"
+        "japanese_name": "サクラビス",
+        "english_name": "Gorebyss"
     },
     {
-        "ja": "ジーランス",
-        "en": "Relicanth"
+        "japanese_name": "ジーランス",
+        "english_name": "Relicanth"
     },
     {
-        "ja": "ラブカス",
-        "en": "Luvdisc"
+        "japanese_name": "ラブカス",
+        "english_name": "Luvdisc"
     },
     {
-        "ja": "タツベイ",
-        "en": "Bagon"
+        "japanese_name": "タツベイ",
+        "english_name": "Bagon"
     },
     {
-        "ja": "コモルー",
-        "en": "Shelgon"
+        "japanese_name": "コモルー",
+        "english_name": "Shelgon"
     },
     {
-        "ja": "ボーマンダ",
-        "en": "Salamence"
+        "japanese_name": "ボーマンダ",
+        "english_name": "Salamence"
     },
     {
-        "ja": "ダンバル",
-        "en": "Beldum"
+        "japanese_name": "ダンバル",
+        "english_name": "Beldum"
     },
     {
-        "ja": "メタング",
-        "en": "Metang"
+        "japanese_name": "メタング",
+        "english_name": "Metang"
     },
     {
-        "ja": "メタグロス",
-        "en": "Metagross"
+        "japanese_name": "メタグロス",
+        "english_name": "Metagross"
     },
     {
-        "ja": "レジロック",
-        "en": "Regirock"
+        "japanese_name": "レジロック",
+        "english_name": "Regirock"
     },
     {
-        "ja": "レジアイス",
-        "en": "Regice"
+        "japanese_name": "レジアイス",
+        "english_name": "Regice"
     },
     {
-        "ja": "レジスチル",
-        "en": "Registeel"
+        "japanese_name": "レジスチル",
+        "english_name": "Registeel"
     },
     {
-        "ja": "ラティアス",
-        "en": "Latias"
+        "japanese_name": "ラティアス",
+        "english_name": "Latias"
     },
     {
-        "ja": "ラティオス",
-        "en": "Latios"
+        "japanese_name": "ラティオス",
+        "english_name": "Latios"
     },
     {
-        "ja": "カイオーガ",
-        "en": "Kyogre"
+        "japanese_name": "カイオーガ",
+        "english_name": "Kyogre"
     },
     {
-        "ja": "グラードン",
-        "en": "Groudon"
+        "japanese_name": "グラードン",
+        "english_name": "Groudon"
     },
     {
-        "ja": "レックウザ",
-        "en": "Rayquaza"
+        "japanese_name": "レックウザ",
+        "english_name": "Rayquaza"
     },
     {
-        "ja": "ジラーチ",
-        "en": "Jirachi"
+        "japanese_name": "ジラーチ",
+        "english_name": "Jirachi"
     },
     {
-        "ja": "デオキシス",
-        "en": "Deoxys"
+        "japanese_name": "デオキシス",
+        "english_name": "Deoxys"
     },
     {
-        "ja": "ナエトル",
-        "en": "Turtwig"
+        "japanese_name": "ナエトル",
+        "english_name": "Turtwig"
     },
     {
-        "ja": "ハヤシガメ",
-        "en": "Grotle"
+        "japanese_name": "ハヤシガメ",
+        "english_name": "Grotle"
     },
     {
-        "ja": "ドダイトス",
-        "en": "Torterra"
+        "japanese_name": "ドダイトス",
+        "english_name": "Torterra"
     },
     {
-        "ja": "ヒコザル",
-        "en": "Chimchar"
+        "japanese_name": "ヒコザル",
+        "english_name": "Chimchar"
     },
     {
-        "ja": "モウカザル",
-        "en": "Monferno"
+        "japanese_name": "モウカザル",
+        "english_name": "Monferno"
     },
     {
-        "ja": "ゴウカザル",
-        "en": "Infernape"
+        "japanese_name": "ゴウカザル",
+        "english_name": "Infernape"
     },
     {
-        "ja": "ポッチャマ",
-        "en": "Piplup"
+        "japanese_name": "ポッチャマ",
+        "english_name": "Piplup"
     },
     {
-        "ja": "ポッタイシ",
-        "en": "Prinplup"
+        "japanese_name": "ポッタイシ",
+        "english_name": "Prinplup"
     },
     {
-        "ja": "エンペルト",
-        "en": "Empoleon"
+        "japanese_name": "エンペルト",
+        "english_name": "Empoleon"
     },
     {
-        "ja": "ムックル",
-        "en": "Starly"
+        "japanese_name": "ムックル",
+        "english_name": "Starly"
     },
     {
-        "ja": "ムクバード",
-        "en": "Staravia"
+        "japanese_name": "ムクバード",
+        "english_name": "Staravia"
     },
     {
-        "ja": "ムクホーク",
-        "en": "Staraptor"
+        "japanese_name": "ムクホーク",
+        "english_name": "Staraptor"
     },
     {
-        "ja": "ビッパ",
-        "en": "Bidoof"
+        "japanese_name": "ビッパ",
+        "english_name": "Bidoof"
     },
     {
-        "ja": "ビーダル",
-        "en": "Bibarel"
+        "japanese_name": "ビーダル",
+        "english_name": "Bibarel"
     },
     {
-        "ja": "コロボーシ",
-        "en": "Kricketot"
+        "japanese_name": "コロボーシ",
+        "english_name": "Kricketot"
     },
     {
-        "ja": "コロトック",
-        "en": "Kricketune"
+        "japanese_name": "コロトック",
+        "english_name": "Kricketune"
     },
     {
-        "ja": "コリンク",
-        "en": "Shinx"
+        "japanese_name": "コリンク",
+        "english_name": "Shinx"
     },
     {
-        "ja": "ルクシオ",
-        "en": "Luxio"
+        "japanese_name": "ルクシオ",
+        "english_name": "Luxio"
     },
     {
-        "ja": "レントラー",
-        "en": "Luxray"
+        "japanese_name": "レントラー",
+        "english_name": "Luxray"
     },
     {
-        "ja": "スボミー",
-        "en": "Budew"
+        "japanese_name": "スボミー",
+        "english_name": "Budew"
     },
     {
-        "ja": "ロズレイド",
-        "en": "Roserade"
+        "japanese_name": "ロズレイド",
+        "english_name": "Roserade"
     },
     {
-        "ja": "ズガイドス",
-        "en": "Cranidos"
+        "japanese_name": "ズガイドス",
+        "english_name": "Cranidos"
     },
     {
-        "ja": "ラムパルド",
-        "en": "Rampardos"
+        "japanese_name": "ラムパルド",
+        "english_name": "Rampardos"
     },
     {
-        "ja": "タテトプス",
-        "en": "Shieldon"
+        "japanese_name": "タテトプス",
+        "english_name": "Shieldon"
     },
     {
-        "ja": "トリデプス",
-        "en": "Bastiodon"
+        "japanese_name": "トリデプス",
+        "english_name": "Bastiodon"
     },
     {
-        "ja": "ミノムッチ",
-        "en": "Burmy"
+        "japanese_name": "ミノムッチ",
+        "english_name": "Burmy"
     },
     {
-        "ja": "ミノマダム",
-        "en": "Wormadam"
+        "japanese_name": "ミノマダム",
+        "english_name": "Wormadam"
     },
     {
-        "ja": "ガーメイル",
-        "en": "Mothim"
+        "japanese_name": "ガーメイル",
+        "english_name": "Mothim"
     },
     {
-        "ja": "ミツハニー",
-        "en": "Combee"
+        "japanese_name": "ミツハニー",
+        "english_name": "Combee"
     },
     {
-        "ja": "ビークイン",
-        "en": "Vespiquen"
+        "japanese_name": "ビークイン",
+        "english_name": "Vespiquen"
     },
     {
-        "ja": "パチリス",
-        "en": "Pachirisu"
+        "japanese_name": "パチリス",
+        "english_name": "Pachirisu"
     },
     {
-        "ja": "ブイゼル",
-        "en": "Buizel"
+        "japanese_name": "ブイゼル",
+        "english_name": "Buizel"
     },
     {
-        "ja": "フローゼル",
-        "en": "Floatzel"
+        "japanese_name": "フローゼル",
+        "english_name": "Floatzel"
     },
     {
-        "ja": "チェリンボ",
-        "en": "Cherubi"
+        "japanese_name": "チェリンボ",
+        "english_name": "Cherubi"
     },
     {
-        "ja": "チェリム",
-        "en": "Cherrim"
+        "japanese_name": "チェリム",
+        "english_name": "Cherrim"
     },
     {
-        "ja": "カラナクシ",
-        "en": "Shellos"
+        "japanese_name": "カラナクシ",
+        "english_name": "Shellos"
     },
     {
-        "ja": "トリトドン",
-        "en": "Gastrodon"
+        "japanese_name": "トリトドン",
+        "english_name": "Gastrodon"
     },
     {
-        "ja": "エテボース",
-        "en": "Ambipom"
+        "japanese_name": "エテボース",
+        "english_name": "Ambipom"
     },
     {
-        "ja": "フワンテ",
-        "en": "Drifloon"
+        "japanese_name": "フワンテ",
+        "english_name": "Drifloon"
     },
     {
-        "ja": "フワライド",
-        "en": "Drifblim"
+        "japanese_name": "フワライド",
+        "english_name": "Drifblim"
     },
     {
-        "ja": "ミミロル",
-        "en": "Buneary"
+        "japanese_name": "ミミロル",
+        "english_name": "Buneary"
     },
     {
-        "ja": "ミミロップ",
-        "en": "Lopunny"
+        "japanese_name": "ミミロップ",
+        "english_name": "Lopunny"
     },
     {
-        "ja": "ムウマージ",
-        "en": "Mismagius"
+        "japanese_name": "ムウマージ",
+        "english_name": "Mismagius"
     },
     {
-        "ja": "ドンカラス",
-        "en": "Honchkrow"
+        "japanese_name": "ドンカラス",
+        "english_name": "Honchkrow"
     },
     {
-        "ja": "ニャルマー",
-        "en": "Glameow"
+        "japanese_name": "ニャルマー",
+        "english_name": "Glameow"
     },
     {
-        "ja": "ブニャット",
-        "en": "Purugly"
+        "japanese_name": "ブニャット",
+        "english_name": "Purugly"
     },
     {
-        "ja": "リーシャン",
-        "en": "Chingling"
+        "japanese_name": "リーシャン",
+        "english_name": "Chingling"
     },
     {
-        "ja": "スカンプー",
-        "en": "Stunky"
+        "japanese_name": "スカンプー",
+        "english_name": "Stunky"
     },
     {
-        "ja": "スカタンク",
-        "en": "Skuntank"
+        "japanese_name": "スカタンク",
+        "english_name": "Skuntank"
     },
     {
-        "ja": "ドーミラー",
-        "en": "Bronzor"
+        "japanese_name": "ドーミラー",
+        "english_name": "Bronzor"
     },
     {
-        "ja": "ドータクン",
-        "en": "Bronzong"
+        "japanese_name": "ドータクン",
+        "english_name": "Bronzong"
     },
     {
-        "ja": "ウソハチ",
-        "en": "Bonsly"
+        "japanese_name": "ウソハチ",
+        "english_name": "Bonsly"
     },
     {
-        "ja": "マネネ",
-        "en": "Mime Jr."
+        "japanese_name": "マネネ",
+        "english_name": "Mime Jr."
     },
     {
-        "ja": "ピンプク",
-        "en": "Happiny"
+        "japanese_name": "ピンプク",
+        "english_name": "Happiny"
     },
     {
-        "ja": "ペラップ",
-        "en": "Chatot"
+        "japanese_name": "ペラップ",
+        "english_name": "Chatot"
     },
     {
-        "ja": "ミカルゲ",
-        "en": "Spiritomb"
+        "japanese_name": "ミカルゲ",
+        "english_name": "Spiritomb"
     },
     {
-        "ja": "フカマル",
-        "en": "Gible"
+        "japanese_name": "フカマル",
+        "english_name": "Gible"
     },
     {
-        "ja": "ガバイト",
-        "en": "Gabite"
+        "japanese_name": "ガバイト",
+        "english_name": "Gabite"
     },
     {
-        "ja": "ガブリアス",
-        "en": "Garchomp"
+        "japanese_name": "ガブリアス",
+        "english_name": "Garchomp"
     },
     {
-        "ja": "ゴンベ",
-        "en": "Munchlax"
+        "japanese_name": "ゴンベ",
+        "english_name": "Munchlax"
     },
     {
-        "ja": "リオル",
-        "en": "Riolu"
+        "japanese_name": "リオル",
+        "english_name": "Riolu"
     },
     {
-        "ja": "ルカリオ",
-        "en": "Lucario"
+        "japanese_name": "ルカリオ",
+        "english_name": "Lucario"
     },
     {
-        "ja": "ヒポポタス",
-        "en": "Hippopotas"
+        "japanese_name": "ヒポポタス",
+        "english_name": "Hippopotas"
     },
     {
-        "ja": "カバルドン",
-        "en": "Hippowdon"
+        "japanese_name": "カバルドン",
+        "english_name": "Hippowdon"
     },
     {
-        "ja": "スコルピ",
-        "en": "Skorupi"
+        "japanese_name": "スコルピ",
+        "english_name": "Skorupi"
     },
     {
-        "ja": "ドラピオン",
-        "en": "Drapion"
+        "japanese_name": "ドラピオン",
+        "english_name": "Drapion"
     },
     {
-        "ja": "グレッグル",
-        "en": "Croagunk"
+        "japanese_name": "グレッグル",
+        "english_name": "Croagunk"
     },
     {
-        "ja": "ドクロッグ",
-        "en": "Toxicroak"
+        "japanese_name": "ドクロッグ",
+        "english_name": "Toxicroak"
     },
     {
-        "ja": "マスキッパ",
-        "en": "Carnivine"
+        "japanese_name": "マスキッパ",
+        "english_name": "Carnivine"
     },
     {
-        "ja": "ケイコウオ",
-        "en": "Finneon"
+        "japanese_name": "ケイコウオ",
+        "english_name": "Finneon"
     },
     {
-        "ja": "ネオラント",
-        "en": "Lumineon"
+        "japanese_name": "ネオラント",
+        "english_name": "Lumineon"
     },
     {
-        "ja": "タマンタ",
-        "en": "Mantyke"
+        "japanese_name": "タマンタ",
+        "english_name": "Mantyke"
     },
     {
-        "ja": "ユキカブリ",
-        "en": "Snover"
+        "japanese_name": "ユキカブリ",
+        "english_name": "Snover"
     },
     {
-        "ja": "ユキノオー",
-        "en": "Abomasnow"
+        "japanese_name": "ユキノオー",
+        "english_name": "Abomasnow"
     },
     {
-        "ja": "マニューラ",
-        "en": "Weavile"
+        "japanese_name": "マニューラ",
+        "english_name": "Weavile"
     },
     {
-        "ja": "ジバコイル",
-        "en": "Magnezone"
+        "japanese_name": "ジバコイル",
+        "english_name": "Magnezone"
     },
     {
-        "ja": "ベロベルト",
-        "en": "Lickilicky"
+        "japanese_name": "ベロベルト",
+        "english_name": "Lickilicky"
     },
     {
-        "ja": "ドサイドン",
-        "en": "Rhyperior"
+        "japanese_name": "ドサイドン",
+        "english_name": "Rhyperior"
     },
     {
-        "ja": "モジャンボ",
-        "en": "Tangrowth"
+        "japanese_name": "モジャンボ",
+        "english_name": "Tangrowth"
     },
     {
-        "ja": "エレキブル",
-        "en": "Electivire"
+        "japanese_name": "エレキブル",
+        "english_name": "Electivire"
     },
     {
-        "ja": "ブーバーン",
-        "en": "Magmortar"
+        "japanese_name": "ブーバーン",
+        "english_name": "Magmortar"
     },
     {
-        "ja": "トゲキッス",
-        "en": "Togekiss"
+        "japanese_name": "トゲキッス",
+        "english_name": "Togekiss"
     },
     {
-        "ja": "メガヤンマ",
-        "en": "Yanmega"
+        "japanese_name": "メガヤンマ",
+        "english_name": "Yanmega"
     },
     {
-        "ja": "リーフィア",
-        "en": "Leafeon"
+        "japanese_name": "リーフィア",
+        "english_name": "Leafeon"
     },
     {
-        "ja": "グレイシア",
-        "en": "Glaceon"
+        "japanese_name": "グレイシア",
+        "english_name": "Glaceon"
     },
     {
-        "ja": "グライオン",
-        "en": "Gliscor"
+        "japanese_name": "グライオン",
+        "english_name": "Gliscor"
     },
     {
-        "ja": "マンムー",
-        "en": "Mamoswine"
+        "japanese_name": "マンムー",
+        "english_name": "Mamoswine"
     },
     {
-        "ja": "ポリゴンZ",
-        "en": "Porygon-Z"
+        "japanese_name": "ポリゴンZ",
+        "english_name": "Porygon-Z"
     },
     {
-        "ja": "エルレイド",
-        "en": "Gallade"
+        "japanese_name": "エルレイド",
+        "english_name": "Gallade"
     },
     {
-        "ja": "ダイノーズ",
-        "en": "Probopass"
+        "japanese_name": "ダイノーズ",
+        "english_name": "Probopass"
     },
     {
-        "ja": "ヨノワール",
-        "en": "Dusknoir"
+        "japanese_name": "ヨノワール",
+        "english_name": "Dusknoir"
     },
     {
-        "ja": "ユキメノコ",
-        "en": "Froslass"
+        "japanese_name": "ユキメノコ",
+        "english_name": "Froslass"
     },
     {
-        "ja": "ロトム",
-        "en": "Rotom"
+        "japanese_name": "ロトム",
+        "english_name": "Rotom"
     },
     {
-        "ja": "ユクシー",
-        "en": "Uxie"
+        "japanese_name": "ユクシー",
+        "english_name": "Uxie"
     },
     {
-        "ja": "エムリット",
-        "en": "Mesprit"
+        "japanese_name": "エムリット",
+        "english_name": "Mesprit"
     },
     {
-        "ja": "アグノム",
-        "en": "Azelf"
+        "japanese_name": "アグノム",
+        "english_name": "Azelf"
     },
     {
-        "ja": "ディアルガ",
-        "en": "Dialga"
+        "japanese_name": "ディアルガ",
+        "english_name": "Dialga"
     },
     {
-        "ja": "パルキア",
-        "en": "Palkia"
+        "japanese_name": "パルキア",
+        "english_name": "Palkia"
     },
     {
-        "ja": "ヒードラン",
-        "en": "Heatran"
+        "japanese_name": "ヒードラン",
+        "english_name": "Heatran"
     },
     {
-        "ja": "レジギガス",
-        "en": "Regigigas"
+        "japanese_name": "レジギガス",
+        "english_name": "Regigigas"
     },
     {
-        "ja": "ギラティナ",
-        "en": "Giratina"
+        "japanese_name": "ギラティナ",
+        "english_name": "Giratina"
     },
     {
-        "ja": "クレセリア",
-        "en": "Cresselia"
+        "japanese_name": "クレセリア",
+        "english_name": "Cresselia"
     },
     {
-        "ja": "フィオネ",
-        "en": "Phione"
+        "japanese_name": "フィオネ",
+        "english_name": "Phione"
     },
     {
-        "ja": "マナフィ",
-        "en": "Manaphy"
+        "japanese_name": "マナフィ",
+        "english_name": "Manaphy"
     },
     {
-        "ja": "ダークライ",
-        "en": "Darkrai"
+        "japanese_name": "ダークライ",
+        "english_name": "Darkrai"
     },
     {
-        "ja": "シェイミ",
-        "en": "Shaymin"
+        "japanese_name": "シェイミ",
+        "english_name": "Shaymin"
     },
     {
-        "ja": "アルセウス",
-        "en": "Arceus"
+        "japanese_name": "アルセウス",
+        "english_name": "Arceus"
     },
     {
-        "ja": "ビクティニ",
-        "en": "Victini"
+        "japanese_name": "ビクティニ",
+        "english_name": "Victini"
     },
     {
-        "ja": "ツタージャ",
-        "en": "Snivy"
+        "japanese_name": "ツタージャ",
+        "english_name": "Snivy"
     },
     {
-        "ja": "ジャノビー",
-        "en": "Servine"
+        "japanese_name": "ジャノビー",
+        "english_name": "Servine"
     },
     {
-        "ja": "ジャローダ",
-        "en": "Serperior"
+        "japanese_name": "ジャローダ",
+        "english_name": "Serperior"
     },
     {
-        "ja": "ポカブ",
-        "en": "Tepig"
+        "japanese_name": "ポカブ",
+        "english_name": "Tepig"
     },
     {
-        "ja": "チャオブー",
-        "en": "Pignite"
+        "japanese_name": "チャオブー",
+        "english_name": "Pignite"
     },
     {
-        "ja": "エンブオー",
-        "en": "Emboar"
+        "japanese_name": "エンブオー",
+        "english_name": "Emboar"
     },
     {
-        "ja": "ミジュマル",
-        "en": "Oshawott"
+        "japanese_name": "ミジュマル",
+        "english_name": "Oshawott"
     },
     {
-        "ja": "フタチマル",
-        "en": "Dewott"
+        "japanese_name": "フタチマル",
+        "english_name": "Dewott"
     },
     {
-        "ja": "ダイケンキ",
-        "en": "Samurott"
+        "japanese_name": "ダイケンキ",
+        "english_name": "Samurott"
     },
     {
-        "ja": "ミネズミ",
-        "en": "Patrat"
+        "japanese_name": "ミネズミ",
+        "english_name": "Patrat"
     },
     {
-        "ja": "ミルホッグ",
-        "en": "Watchog"
+        "japanese_name": "ミルホッグ",
+        "english_name": "Watchog"
     },
     {
-        "ja": "ヨーテリー",
-        "en": "Lillipup"
+        "japanese_name": "ヨーテリー",
+        "english_name": "Lillipup"
     },
     {
-        "ja": "ハーデリア",
-        "en": "Herdier"
+        "japanese_name": "ハーデリア",
+        "english_name": "Herdier"
     },
     {
-        "ja": "ムーランド",
-        "en": "Stoutland"
+        "japanese_name": "ムーランド",
+        "english_name": "Stoutland"
     },
     {
-        "ja": "チョロネコ",
-        "en": "Purrloin"
+        "japanese_name": "チョロネコ",
+        "english_name": "Purrloin"
     },
     {
-        "ja": "レパルダス",
-        "en": "Liepard"
+        "japanese_name": "レパルダス",
+        "english_name": "Liepard"
     },
     {
-        "ja": "ヤナップ",
-        "en": "Pansage"
+        "japanese_name": "ヤナップ",
+        "english_name": "Pansage"
     },
     {
-        "ja": "ヤナッキー",
-        "en": "Simisage"
+        "japanese_name": "ヤナッキー",
+        "english_name": "Simisage"
     },
     {
-        "ja": "バオップ",
-        "en": "Pansear"
+        "japanese_name": "バオップ",
+        "english_name": "Pansear"
     },
     {
-        "ja": "バオッキー",
-        "en": "Simisear"
+        "japanese_name": "バオッキー",
+        "english_name": "Simisear"
     },
     {
-        "ja": "ヒヤップ",
-        "en": "Panpour"
+        "japanese_name": "ヒヤップ",
+        "english_name": "Panpour"
     },
     {
-        "ja": "ヒヤッキー",
-        "en": "Simipour"
+        "japanese_name": "ヒヤッキー",
+        "english_name": "Simipour"
     },
     {
-        "ja": "ムンナ",
-        "en": "Munna"
+        "japanese_name": "ムンナ",
+        "english_name": "Munna"
     },
     {
-        "ja": "ムシャーナ",
-        "en": "Musharna"
+        "japanese_name": "ムシャーナ",
+        "english_name": "Musharna"
     },
     {
-        "ja": "マメパト",
-        "en": "Pidove"
+        "japanese_name": "マメパト",
+        "english_name": "Pidove"
     },
     {
-        "ja": "ハトーボー",
-        "en": "Tranquill"
+        "japanese_name": "ハトーボー",
+        "english_name": "Tranquill"
     },
     {
-        "ja": "ケンホロウ",
-        "en": "Unfezant"
+        "japanese_name": "ケンホロウ",
+        "english_name": "Unfezant"
     },
     {
-        "ja": "シママ",
-        "en": "Blitzle"
+        "japanese_name": "シママ",
+        "english_name": "Blitzle"
     },
     {
-        "ja": "ゼブライカ",
-        "en": "Zebstrika"
+        "japanese_name": "ゼブライカ",
+        "english_name": "Zebstrika"
     },
     {
-        "ja": "ダンゴロ",
-        "en": "Roggenrola"
+        "japanese_name": "ダンゴロ",
+        "english_name": "Roggenrola"
     },
     {
-        "ja": "ガントル",
-        "en": "Boldore"
+        "japanese_name": "ガントル",
+        "english_name": "Boldore"
     },
     {
-        "ja": "ギガイアス",
-        "en": "Gigalith"
+        "japanese_name": "ギガイアス",
+        "english_name": "Gigalith"
     },
     {
-        "ja": "コロモリ",
-        "en": "Woobat"
+        "japanese_name": "コロモリ",
+        "english_name": "Woobat"
     },
     {
-        "ja": "ココロモリ",
-        "en": "Swoobat"
+        "japanese_name": "ココロモリ",
+        "english_name": "Swoobat"
     },
     {
-        "ja": "モグリュー",
-        "en": "Drilbur"
+        "japanese_name": "モグリュー",
+        "english_name": "Drilbur"
     },
     {
-        "ja": "ドリュウズ",
-        "en": "Excadrill"
+        "japanese_name": "ドリュウズ",
+        "english_name": "Excadrill"
     },
     {
-        "ja": "タブンネ",
-        "en": "Audino"
+        "japanese_name": "タブンネ",
+        "english_name": "Audino"
     },
     {
-        "ja": "ドッコラー",
-        "en": "Timburr"
+        "japanese_name": "ドッコラー",
+        "english_name": "Timburr"
     },
     {
-        "ja": "ドテッコツ",
-        "en": "Gurdurr"
+        "japanese_name": "ドテッコツ",
+        "english_name": "Gurdurr"
     },
     {
-        "ja": "ローブシン",
-        "en": "Conkeldurr"
+        "japanese_name": "ローブシン",
+        "english_name": "Conkeldurr"
     },
     {
-        "ja": "オタマロ",
-        "en": "Tympole"
+        "japanese_name": "オタマロ",
+        "english_name": "Tympole"
     },
     {
-        "ja": "ガマガル",
-        "en": "Palpitoad"
+        "japanese_name": "ガマガル",
+        "english_name": "Palpitoad"
     },
     {
-        "ja": "ガマゲロゲ",
-        "en": "Seismitoad"
+        "japanese_name": "ガマゲロゲ",
+        "english_name": "Seismitoad"
     },
     {
-        "ja": "ナゲキ",
-        "en": "Throh"
+        "japanese_name": "ナゲキ",
+        "english_name": "Throh"
     },
     {
-        "ja": "ダゲキ",
-        "en": "Sawk"
+        "japanese_name": "ダゲキ",
+        "english_name": "Sawk"
     },
     {
-        "ja": "クルミル",
-        "en": "Sewaddle"
+        "japanese_name": "クルミル",
+        "english_name": "Sewaddle"
     },
     {
-        "ja": "クルマユ",
-        "en": "Swadloon"
+        "japanese_name": "クルマユ",
+        "english_name": "Swadloon"
     },
     {
-        "ja": "ハハコモリ",
-        "en": "Leavanny"
+        "japanese_name": "ハハコモリ",
+        "english_name": "Leavanny"
     },
     {
-        "ja": "フシデ",
-        "en": "Venipede"
+        "japanese_name": "フシデ",
+        "english_name": "Venipede"
     },
     {
-        "ja": "ホイーガ",
-        "en": "Whirlipede"
+        "japanese_name": "ホイーガ",
+        "english_name": "Whirlipede"
     },
     {
-        "ja": "ペンドラー",
-        "en": "Scolipede"
+        "japanese_name": "ペンドラー",
+        "english_name": "Scolipede"
     },
     {
-        "ja": "モンメン",
-        "en": "Cottonee"
+        "japanese_name": "モンメン",
+        "english_name": "Cottonee"
     },
     {
-        "ja": "エルフーン",
-        "en": "Whimsicott"
+        "japanese_name": "エルフーン",
+        "english_name": "Whimsicott"
     },
     {
-        "ja": "チュリネ",
-        "en": "Petilil"
+        "japanese_name": "チュリネ",
+        "english_name": "Petilil"
     },
     {
-        "ja": "ドレディア",
-        "en": "Lilligant"
+        "japanese_name": "ドレディア",
+        "english_name": "Lilligant"
     },
     {
-        "ja": "バスラオ",
-        "en": "Basculin"
+        "japanese_name": "バスラオ",
+        "english_name": "Basculin"
     },
     {
-        "ja": "メグロコ",
-        "en": "Sandile"
+        "japanese_name": "メグロコ",
+        "english_name": "Sandile"
     },
     {
-        "ja": "ワルビル",
-        "en": "Krokorok"
+        "japanese_name": "ワルビル",
+        "english_name": "Krokorok"
     },
     {
-        "ja": "ワルビアル",
-        "en": "Krookodile"
+        "japanese_name": "ワルビアル",
+        "english_name": "Krookodile"
     },
     {
-        "ja": "ダルマッカ",
-        "en": "Darumaka"
+        "japanese_name": "ダルマッカ",
+        "english_name": "Darumaka"
     },
     {
-        "ja": "ヒヒダルマ",
-        "en": "Darmanitan"
+        "japanese_name": "ヒヒダルマ",
+        "english_name": "Darmanitan"
     },
     {
-        "ja": "マラカッチ",
-        "en": "Maractus"
+        "japanese_name": "マラカッチ",
+        "english_name": "Maractus"
     },
     {
-        "ja": "イシズマイ",
-        "en": "Dwebble"
+        "japanese_name": "イシズマイ",
+        "english_name": "Dwebble"
     },
     {
-        "ja": "イワパレス",
-        "en": "Crustle"
+        "japanese_name": "イワパレス",
+        "english_name": "Crustle"
     },
     {
-        "ja": "ズルッグ",
-        "en": "Scraggy"
+        "japanese_name": "ズルッグ",
+        "english_name": "Scraggy"
     },
     {
-        "ja": "ズルズキン",
-        "en": "Scrafty"
+        "japanese_name": "ズルズキン",
+        "english_name": "Scrafty"
     },
     {
-        "ja": "シンボラー",
-        "en": "Sigilyph"
+        "japanese_name": "シンボラー",
+        "english_name": "Sigilyph"
     },
     {
-        "ja": "デスマス",
-        "en": "Yamask"
+        "japanese_name": "デスマス",
+        "english_name": "Yamask"
     },
     {
-        "ja": "デスカーン",
-        "en": "Cofagrigus"
+        "japanese_name": "デスカーン",
+        "english_name": "Cofagrigus"
     },
     {
-        "ja": "プロトーガ",
-        "en": "Tirtouga"
+        "japanese_name": "プロトーガ",
+        "english_name": "Tirtouga"
     },
     {
-        "ja": "アバゴーラ",
-        "en": "Carracosta"
+        "japanese_name": "アバゴーラ",
+        "english_name": "Carracosta"
     },
     {
-        "ja": "アーケン",
-        "en": "Archen"
+        "japanese_name": "アーケン",
+        "english_name": "Archen"
     },
     {
-        "ja": "アーケオス",
-        "en": "Archeops"
+        "japanese_name": "アーケオス",
+        "english_name": "Archeops"
     },
     {
-        "ja": "ヤブクロン",
-        "en": "Trubbish"
+        "japanese_name": "ヤブクロン",
+        "english_name": "Trubbish"
     },
     {
-        "ja": "ダストダス",
-        "en": "Garbodor"
+        "japanese_name": "ダストダス",
+        "english_name": "Garbodor"
     },
     {
-        "ja": "ゾロア",
-        "en": "Zorua"
+        "japanese_name": "ゾロア",
+        "english_name": "Zorua"
     },
     {
-        "ja": "ゾロアーク",
-        "en": "Zoroark"
+        "japanese_name": "ゾロアーク",
+        "english_name": "Zoroark"
     },
     {
-        "ja": "チラーミィ",
-        "en": "Minccino"
+        "japanese_name": "チラーミィ",
+        "english_name": "Minccino"
     },
     {
-        "ja": "チラチーノ",
-        "en": "Cinccino"
+        "japanese_name": "チラチーノ",
+        "english_name": "Cinccino"
     },
     {
-        "ja": "ゴチム",
-        "en": "Gothita"
+        "japanese_name": "ゴチム",
+        "english_name": "Gothita"
     },
     {
-        "ja": "ゴチミル",
-        "en": "Gothorita"
+        "japanese_name": "ゴチミル",
+        "english_name": "Gothorita"
     },
     {
-        "ja": "ゴチルゼル",
-        "en": "Gothitelle"
+        "japanese_name": "ゴチルゼル",
+        "english_name": "Gothitelle"
     },
     {
-        "ja": "ユニラン",
-        "en": "Solosis"
+        "japanese_name": "ユニラン",
+        "english_name": "Solosis"
     },
     {
-        "ja": "ダブラン",
-        "en": "Duosion"
+        "japanese_name": "ダブラン",
+        "english_name": "Duosion"
     },
     {
-        "ja": "ランクルス",
-        "en": "Reuniclus"
+        "japanese_name": "ランクルス",
+        "english_name": "Reuniclus"
     },
     {
-        "ja": "コアルヒー",
-        "en": "Ducklett"
+        "japanese_name": "コアルヒー",
+        "english_name": "Ducklett"
     },
     {
-        "ja": "スワンナ",
-        "en": "Swanna"
+        "japanese_name": "スワンナ",
+        "english_name": "Swanna"
     },
     {
-        "ja": "バニプッチ",
-        "en": "Vanillite"
+        "japanese_name": "バニプッチ",
+        "english_name": "Vanillite"
     },
     {
-        "ja": "バニリッチ",
-        "en": "Vanillish"
+        "japanese_name": "バニリッチ",
+        "english_name": "Vanillish"
     },
     {
-        "ja": "バイバニラ",
-        "en": "Vanilluxe"
+        "japanese_name": "バイバニラ",
+        "english_name": "Vanilluxe"
     },
     {
-        "ja": "シキジカ",
-        "en": "Deerling"
+        "japanese_name": "シキジカ",
+        "english_name": "Deerling"
     },
     {
-        "ja": "メブキジカ",
-        "en": "Sawsbuck"
+        "japanese_name": "メブキジカ",
+        "english_name": "Sawsbuck"
     },
     {
-        "ja": "エモンガ",
-        "en": "Emolga"
+        "japanese_name": "エモンガ",
+        "english_name": "Emolga"
     },
     {
-        "ja": "カブルモ",
-        "en": "Karrablast"
+        "japanese_name": "カブルモ",
+        "english_name": "Karrablast"
     },
     {
-        "ja": "シュバルゴ",
-        "en": "Escavalier"
+        "japanese_name": "シュバルゴ",
+        "english_name": "Escavalier"
     },
     {
-        "ja": "タマゲタケ",
-        "en": "Foongus"
+        "japanese_name": "タマゲタケ",
+        "english_name": "Foongus"
     },
     {
-        "ja": "モロバレル",
-        "en": "Amoonguss"
+        "japanese_name": "モロバレル",
+        "english_name": "Amoonguss"
     },
     {
-        "ja": "プルリル",
-        "en": "Frillish"
+        "japanese_name": "プルリル",
+        "english_name": "Frillish"
     },
     {
-        "ja": "ブルンゲル",
-        "en": "Jellicent"
+        "japanese_name": "ブルンゲル",
+        "english_name": "Jellicent"
     },
     {
-        "ja": "ママンボウ",
-        "en": "Alomomola"
+        "japanese_name": "ママンボウ",
+        "english_name": "Alomomola"
     },
     {
-        "ja": "バチュル",
-        "en": "Joltik"
+        "japanese_name": "バチュル",
+        "english_name": "Joltik"
     },
     {
-        "ja": "デンチュラ",
-        "en": "Galvantula"
+        "japanese_name": "デンチュラ",
+        "english_name": "Galvantula"
     },
     {
-        "ja": "テッシード",
-        "en": "Ferroseed"
+        "japanese_name": "テッシード",
+        "english_name": "Ferroseed"
     },
     {
-        "ja": "ナットレイ",
-        "en": "Ferrothorn"
+        "japanese_name": "ナットレイ",
+        "english_name": "Ferrothorn"
     },
     {
-        "ja": "ギアル",
-        "en": "Klink"
+        "japanese_name": "ギアル",
+        "english_name": "Klink"
     },
     {
-        "ja": "ギギアル",
-        "en": "Klang"
+        "japanese_name": "ギギアル",
+        "english_name": "Klang"
     },
     {
-        "ja": "ギギギアル",
-        "en": "Klinklang"
+        "japanese_name": "ギギギアル",
+        "english_name": "Klinklang"
     },
     {
-        "ja": "シビシラス",
-        "en": "Tynamo"
+        "japanese_name": "シビシラス",
+        "english_name": "Tynamo"
     },
     {
-        "ja": "シビビール",
-        "en": "Eelektrik"
+        "japanese_name": "シビビール",
+        "english_name": "Eelektrik"
     },
     {
-        "ja": "シビルドン",
-        "en": "Eelektross"
+        "japanese_name": "シビルドン",
+        "english_name": "Eelektross"
     },
     {
-        "ja": "リグレー",
-        "en": "Elgyem"
+        "japanese_name": "リグレー",
+        "english_name": "Elgyem"
     },
     {
-        "ja": "オーベム",
-        "en": "Beheeyem"
+        "japanese_name": "オーベム",
+        "english_name": "Beheeyem"
     },
     {
-        "ja": "ヒトモシ",
-        "en": "Litwick"
+        "japanese_name": "ヒトモシ",
+        "english_name": "Litwick"
     },
     {
-        "ja": "ランプラー",
-        "en": "Lampent"
+        "japanese_name": "ランプラー",
+        "english_name": "Lampent"
     },
     {
-        "ja": "シャンデラ",
-        "en": "Chandelure"
+        "japanese_name": "シャンデラ",
+        "english_name": "Chandelure"
     },
     {
-        "ja": "キバゴ",
-        "en": "Axew"
+        "japanese_name": "キバゴ",
+        "english_name": "Axew"
     },
     {
-        "ja": "オノンド",
-        "en": "Fraxure"
+        "japanese_name": "オノンド",
+        "english_name": "Fraxure"
     },
     {
-        "ja": "オノノクス",
-        "en": "Haxorus"
+        "japanese_name": "オノノクス",
+        "english_name": "Haxorus"
     },
     {
-        "ja": "クマシュン",
-        "en": "Cubchoo"
+        "japanese_name": "クマシュン",
+        "english_name": "Cubchoo"
     },
     {
-        "ja": "ツンベアー",
-        "en": "Beartic"
+        "japanese_name": "ツンベアー",
+        "english_name": "Beartic"
     },
     {
-        "ja": "フリージオ",
-        "en": "Cryogonal"
+        "japanese_name": "フリージオ",
+        "english_name": "Cryogonal"
     },
     {
-        "ja": "チョボマキ",
-        "en": "Shelmet"
+        "japanese_name": "チョボマキ",
+        "english_name": "Shelmet"
     },
     {
-        "ja": "アギルダー",
-        "en": "Accelgor"
+        "japanese_name": "アギルダー",
+        "english_name": "Accelgor"
     },
     {
-        "ja": "マッギョ",
-        "en": "Stunfisk"
+        "japanese_name": "マッギョ",
+        "english_name": "Stunfisk"
     },
     {
-        "ja": "コジョフー",
-        "en": "Mienfoo"
+        "japanese_name": "コジョフー",
+        "english_name": "Mienfoo"
     },
     {
-        "ja": "コジョンド",
-        "en": "Mienshao"
+        "japanese_name": "コジョンド",
+        "english_name": "Mienshao"
     },
     {
-        "ja": "クリムガン",
-        "en": "Druddigon"
+        "japanese_name": "クリムガン",
+        "english_name": "Druddigon"
     },
     {
-        "ja": "ゴビット",
-        "en": "Golett"
+        "japanese_name": "ゴビット",
+        "english_name": "Golett"
     },
     {
-        "ja": "ゴルーグ",
-        "en": "Golurk"
+        "japanese_name": "ゴルーグ",
+        "english_name": "Golurk"
     },
     {
-        "ja": "コマタナ",
-        "en": "Pawniard"
+        "japanese_name": "コマタナ",
+        "english_name": "Pawniard"
     },
     {
-        "ja": "キリキザン",
-        "en": "Bisharp"
+        "japanese_name": "キリキザン",
+        "english_name": "Bisharp"
     },
     {
-        "ja": "バッフロン",
-        "en": "Bouffalant"
+        "japanese_name": "バッフロン",
+        "english_name": "Bouffalant"
     },
     {
-        "ja": "ワシボン",
-        "en": "Rufflet"
+        "japanese_name": "ワシボン",
+        "english_name": "Rufflet"
     },
     {
-        "ja": "ウォーグル",
-        "en": "Braviary"
+        "japanese_name": "ウォーグル",
+        "english_name": "Braviary"
     },
     {
-        "ja": "バルチャイ",
-        "en": "Vullaby"
+        "japanese_name": "バルチャイ",
+        "english_name": "Vullaby"
     },
     {
-        "ja": "バルジーナ",
-        "en": "Mandibuzz"
+        "japanese_name": "バルジーナ",
+        "english_name": "Mandibuzz"
     },
     {
-        "ja": "クイタラン",
-        "en": "Heatmor"
+        "japanese_name": "クイタラン",
+        "english_name": "Heatmor"
     },
     {
-        "ja": "アイアント",
-        "en": "Durant"
+        "japanese_name": "アイアント",
+        "english_name": "Durant"
     },
     {
-        "ja": "モノズ",
-        "en": "Deino"
+        "japanese_name": "モノズ",
+        "english_name": "Deino"
     },
     {
-        "ja": "ジヘッド",
-        "en": "Zweilous"
+        "japanese_name": "ジヘッド",
+        "english_name": "Zweilous"
     },
     {
-        "ja": "サザンドラ",
-        "en": "Hydreigon"
+        "japanese_name": "サザンドラ",
+        "english_name": "Hydreigon"
     },
     {
-        "ja": "メラルバ",
-        "en": "Larvesta"
+        "japanese_name": "メラルバ",
+        "english_name": "Larvesta"
     },
     {
-        "ja": "ウルガモス",
-        "en": "Volcarona"
+        "japanese_name": "ウルガモス",
+        "english_name": "Volcarona"
     },
     {
-        "ja": "コバルオン",
-        "en": "Cobalion"
+        "japanese_name": "コバルオン",
+        "english_name": "Cobalion"
     },
     {
-        "ja": "テラキオン",
-        "en": "Terrakion"
+        "japanese_name": "テラキオン",
+        "english_name": "Terrakion"
     },
     {
-        "ja": "ビリジオン",
-        "en": "Virizion"
+        "japanese_name": "ビリジオン",
+        "english_name": "Virizion"
     },
     {
-        "ja": "トルネロス",
-        "en": "Tornadus"
+        "japanese_name": "トルネロス",
+        "english_name": "Tornadus"
     },
     {
-        "ja": "ボルトロス",
-        "en": "Thundurus"
+        "japanese_name": "ボルトロス",
+        "english_name": "Thundurus"
     },
     {
-        "ja": "レシラム",
-        "en": "Reshiram"
+        "japanese_name": "レシラム",
+        "english_name": "Reshiram"
     },
     {
-        "ja": "ゼクロム",
-        "en": "Zekrom"
+        "japanese_name": "ゼクロム",
+        "english_name": "Zekrom"
     },
     {
-        "ja": "ランドロス",
-        "en": "Landorus"
+        "japanese_name": "ランドロス",
+        "english_name": "Landorus"
     },
     {
-        "ja": "キュレム",
-        "en": "Kyurem"
+        "japanese_name": "キュレム",
+        "english_name": "Kyurem"
     },
     {
-        "ja": "ケルディオ",
-        "en": "Keldeo"
+        "japanese_name": "ケルディオ",
+        "english_name": "Keldeo"
     },
     {
-        "ja": "メロエッタ",
-        "en": "Meloetta"
+        "japanese_name": "メロエッタ",
+        "english_name": "Meloetta"
     },
     {
-        "ja": "ゲノセクト",
-        "en": "Genesect"
+        "japanese_name": "ゲノセクト",
+        "english_name": "Genesect"
     },
     {
-        "ja": "ハリマロン",
-        "en": "Chespin"
+        "japanese_name": "ハリマロン",
+        "english_name": "Chespin"
     },
     {
-        "ja": "ハリボーグ",
-        "en": "Quilladin"
+        "japanese_name": "ハリボーグ",
+        "english_name": "Quilladin"
     },
     {
-        "ja": "ブリガロン",
-        "en": "Chesnaught"
+        "japanese_name": "ブリガロン",
+        "english_name": "Chesnaught"
     },
     {
-        "ja": "フォッコ",
-        "en": "Fennekin"
+        "japanese_name": "フォッコ",
+        "english_name": "Fennekin"
     },
     {
-        "ja": "テールナー",
-        "en": "Braixen"
+        "japanese_name": "テールナー",
+        "english_name": "Braixen"
     },
     {
-        "ja": "マフォクシー",
-        "en": "Delphox"
+        "japanese_name": "マフォクシー",
+        "english_name": "Delphox"
     },
     {
-        "ja": "ケロマツ",
-        "en": "Froakie"
+        "japanese_name": "ケロマツ",
+        "english_name": "Froakie"
     },
     {
-        "ja": "ゲコガシラ",
-        "en": "Frogadier"
+        "japanese_name": "ゲコガシラ",
+        "english_name": "Frogadier"
     },
     {
-        "ja": "ゲッコウガ",
-        "en": "Greninja"
+        "japanese_name": "ゲッコウガ",
+        "english_name": "Greninja"
     },
     {
-        "ja": "ホルビー",
-        "en": "Bunnelby"
+        "japanese_name": "ホルビー",
+        "english_name": "Bunnelby"
     },
     {
-        "ja": "ホルード",
-        "en": "Diggersby"
+        "japanese_name": "ホルード",
+        "english_name": "Diggersby"
     },
     {
-        "ja": "ヤヤコマ",
-        "en": "Fletchling"
+        "japanese_name": "ヤヤコマ",
+        "english_name": "Fletchling"
     },
     {
-        "ja": "ヒノヤコマ",
-        "en": "Fletchinder"
+        "japanese_name": "ヒノヤコマ",
+        "english_name": "Fletchinder"
     },
     {
-        "ja": "ファイアロー",
-        "en": "Talonflame"
+        "japanese_name": "ファイアロー",
+        "english_name": "Talonflame"
     },
     {
-        "ja": "コフキムシ",
-        "en": "Scatterbug"
+        "japanese_name": "コフキムシ",
+        "english_name": "Scatterbug"
     },
     {
-        "ja": "コフーライ",
-        "en": "Spewpa"
+        "japanese_name": "コフーライ",
+        "english_name": "Spewpa"
     },
     {
-        "ja": "ビビヨン",
-        "en": "Vivillon"
+        "japanese_name": "ビビヨン",
+        "english_name": "Vivillon"
     },
     {
-        "ja": "シシコ",
-        "en": "Litleo"
+        "japanese_name": "シシコ",
+        "english_name": "Litleo"
     },
     {
-        "ja": "カエンジシ",
-        "en": "Pyroar"
+        "japanese_name": "カエンジシ",
+        "english_name": "Pyroar"
     },
     {
-        "ja": "フラベベ",
-        "en": "Flab_b_"
+        "japanese_name": "フラベベ",
+        "english_name": "Flab_b_"
     },
     {
-        "ja": "フラエッテ",
-        "en": "Floette"
+        "japanese_name": "フラエッテ",
+        "english_name": "Floette"
     },
     {
-        "ja": "フラージェス",
-        "en": "Florges"
+        "japanese_name": "フラージェス",
+        "english_name": "Florges"
     },
     {
-        "ja": "メェークル",
-        "en": "Skiddo"
+        "japanese_name": "メェークル",
+        "english_name": "Skiddo"
     },
     {
-        "ja": "ゴーゴート",
-        "en": "Gogoat"
+        "japanese_name": "ゴーゴート",
+        "english_name": "Gogoat"
     },
     {
-        "ja": "ヤンチャム",
-        "en": "Pancham"
+        "japanese_name": "ヤンチャム",
+        "english_name": "Pancham"
     },
     {
-        "ja": "ゴロンダ",
-        "en": "Pangoro"
+        "japanese_name": "ゴロンダ",
+        "english_name": "Pangoro"
     },
     {
-        "ja": "トリミアン",
-        "en": "Furfrou"
+        "japanese_name": "トリミアン",
+        "english_name": "Furfrou"
     },
     {
-        "ja": "ニャスパー",
-        "en": "Espurr"
+        "japanese_name": "ニャスパー",
+        "english_name": "Espurr"
     },
     {
-        "ja": "ニャオニクス",
-        "en": "Meowstic"
+        "japanese_name": "ニャオニクス",
+        "english_name": "Meowstic"
     },
     {
-        "ja": "ヒトツキ",
-        "en": "Honedge"
+        "japanese_name": "ヒトツキ",
+        "english_name": "Honedge"
     },
     {
-        "ja": "ニダンギル",
-        "en": "Doublade"
+        "japanese_name": "ニダンギル",
+        "english_name": "Doublade"
     },
     {
-        "ja": "ギルガルド",
-        "en": "Aegislash"
+        "japanese_name": "ギルガルド",
+        "english_name": "Aegislash"
     },
     {
-        "ja": "シュシュプ",
-        "en": "Spritzee"
+        "japanese_name": "シュシュプ",
+        "english_name": "Spritzee"
     },
     {
-        "ja": "フレフワン",
-        "en": "Aromatisse"
+        "japanese_name": "フレフワン",
+        "english_name": "Aromatisse"
     },
     {
-        "ja": "ペロッパフ",
-        "en": "Swirlix"
+        "japanese_name": "ペロッパフ",
+        "english_name": "Swirlix"
     },
     {
-        "ja": "ペロリーム",
-        "en": "Slurpuff"
+        "japanese_name": "ペロリーム",
+        "english_name": "Slurpuff"
     },
     {
-        "ja": "マーイーカ",
-        "en": "Inkay"
+        "japanese_name": "マーイーカ",
+        "english_name": "Inkay"
     },
     {
-        "ja": "カラマネロ",
-        "en": "Malamar"
+        "japanese_name": "カラマネロ",
+        "english_name": "Malamar"
     },
     {
-        "ja": "カメテテ",
-        "en": "Binacle"
+        "japanese_name": "カメテテ",
+        "english_name": "Binacle"
     },
     {
-        "ja": "ガメノデス",
-        "en": "Barbaracle"
+        "japanese_name": "ガメノデス",
+        "english_name": "Barbaracle"
     },
     {
-        "ja": "クズモー",
-        "en": "Skrelp"
+        "japanese_name": "クズモー",
+        "english_name": "Skrelp"
     },
     {
-        "ja": "ドラミドロ",
-        "en": "Dragalge"
+        "japanese_name": "ドラミドロ",
+        "english_name": "Dragalge"
     },
     {
-        "ja": "ウデッポウ",
-        "en": "Clauncher"
+        "japanese_name": "ウデッポウ",
+        "english_name": "Clauncher"
     },
     {
-        "ja": "ブロスター",
-        "en": "Clawitzer"
+        "japanese_name": "ブロスター",
+        "english_name": "Clawitzer"
     },
     {
-        "ja": "エリキテル",
-        "en": "Helioptile"
+        "japanese_name": "エリキテル",
+        "english_name": "Helioptile"
     },
     {
-        "ja": "エレザード",
-        "en": "Heliolisk"
+        "japanese_name": "エレザード",
+        "english_name": "Heliolisk"
     },
     {
-        "ja": "チゴラス",
-        "en": "Tyrunt"
+        "japanese_name": "チゴラス",
+        "english_name": "Tyrunt"
     },
     {
-        "ja": "ガチゴラス",
-        "en": "Tyrantrum"
+        "japanese_name": "ガチゴラス",
+        "english_name": "Tyrantrum"
     },
     {
-        "ja": "アマルス",
-        "en": "Amaura"
+        "japanese_name": "アマルス",
+        "english_name": "Amaura"
     },
     {
-        "ja": "アマルルガ",
-        "en": "Aurorus"
+        "japanese_name": "アマルルガ",
+        "english_name": "Aurorus"
     },
     {
-        "ja": "ニンフィア",
-        "en": "Sylveon"
+        "japanese_name": "ニンフィア",
+        "english_name": "Sylveon"
     },
     {
-        "ja": "ルチャブル",
-        "en": "Hawlucha"
+        "japanese_name": "ルチャブル",
+        "english_name": "Hawlucha"
     },
     {
-        "ja": "デデンネ",
-        "en": "Dedenne"
+        "japanese_name": "デデンネ",
+        "english_name": "Dedenne"
     },
     {
-        "ja": "メレシー",
-        "en": "Carbink"
+        "japanese_name": "メレシー",
+        "english_name": "Carbink"
     },
     {
-        "ja": "ヌメラ",
-        "en": "Goomy"
+        "japanese_name": "ヌメラ",
+        "english_name": "Goomy"
     },
     {
-        "ja": "ヌメイル",
-        "en": "Sliggoo"
+        "japanese_name": "ヌメイル",
+        "english_name": "Sliggoo"
     },
     {
-        "ja": "ヌメルゴン",
-        "en": "Goodra"
+        "japanese_name": "ヌメルゴン",
+        "english_name": "Goodra"
     },
     {
-        "ja": "クレッフィ",
-        "en": "Klefki"
+        "japanese_name": "クレッフィ",
+        "english_name": "Klefki"
     },
     {
-        "ja": "ボクレー",
-        "en": "Phantump"
+        "japanese_name": "ボクレー",
+        "english_name": "Phantump"
     },
     {
-        "ja": "オーロット",
-        "en": "Trevenant"
+        "japanese_name": "オーロット",
+        "english_name": "Trevenant"
     },
     {
-        "ja": "バケッチャ",
-        "en": "Pumpkaboo"
+        "japanese_name": "バケッチャ",
+        "english_name": "Pumpkaboo"
     },
     {
-        "ja": "パンプジン",
-        "en": "Gourgeist"
+        "japanese_name": "パンプジン",
+        "english_name": "Gourgeist"
     },
     {
-        "ja": "カチコール",
-        "en": "Bergmite"
+        "japanese_name": "カチコール",
+        "english_name": "Bergmite"
     },
     {
-        "ja": "クレベース",
-        "en": "Avalugg"
+        "japanese_name": "クレベース",
+        "english_name": "Avalugg"
     },
     {
-        "ja": "オンバット",
-        "en": "Noibat"
+        "japanese_name": "オンバット",
+        "english_name": "Noibat"
     },
     {
-        "ja": "オンバーン",
-        "en": "Noivern"
+        "japanese_name": "オンバーン",
+        "english_name": "Noivern"
     },
     {
-        "ja": "ゼルネアス",
-        "en": "Xerneas"
+        "japanese_name": "ゼルネアス",
+        "english_name": "Xerneas"
     },
     {
-        "ja": "イベルタル",
-        "en": "Yveltal"
+        "japanese_name": "イベルタル",
+        "english_name": "Yveltal"
     },
     {
-        "ja": "ジガルデ",
-        "en": "Zygarde"
+        "japanese_name": "ジガルデ",
+        "english_name": "Zygarde"
     },
     {
-        "ja": "ディアンシー",
-        "en": "Diancie"
+        "japanese_name": "ディアンシー",
+        "english_name": "Diancie"
     },
     {
-        "ja": "フーパ",
-        "en": "Hoopa"
+        "japanese_name": "フーパ",
+        "english_name": "Hoopa"
     },
     {
-        "ja": "ボルケニオン",
-        "en": "Volcanion"
+        "japanese_name": "ボルケニオン",
+        "english_name": "Volcanion"
     }
 ]

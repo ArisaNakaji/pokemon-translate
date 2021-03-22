@@ -1,22 +1,25 @@
 import logo from './logo.svg';
+import pokeball from './pokeball.png'
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={pokeball} className="App-logo" alt="logo" />
+        {/* https://pngimg.com/image/27658 */}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          pokemon name 🇺🇸 → 🇯🇵 dictionary
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+        {/* <button
+          className="button"
+          onClick={() => {
+            searchView();
+          }}
         >
-          Learn React
-        </a>
+          Search
+            </button> */}
       </header>
     </div>
   );
