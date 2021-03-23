@@ -2,13 +2,19 @@
   text-align: center;
 }
 
-.App-logo {
+.pokeball {
   height: 40vmin;
   pointer-events: none;
 }
 
+.startButton {
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .pokeball {
     animation: App-logo-spin infinite 20s linear;
   }
 }
