@@ -8,6 +8,10 @@ app.listen(port, () => {
   console.log("App listening on port " + port);
 });
 
-app.use("/api", (req, res) => {
-  res.send("kita-----✨✨");
+app.get("/api", (req, res) => {
+  res.json("kita-----✨✨");
+});
+
+app.get("/api/pokemon_id", (req, res) => {
+  ;
 });

@@ -5,7 +5,7 @@ import { react, useState, useEffect } from 'react';
 import pokeball from '../../src/pokeball.png'
 
 const Start = (props) => {
-
+  console.log("view: ", props.view)
   const toSearch = (() => props.setView("search"));
 
   return (
