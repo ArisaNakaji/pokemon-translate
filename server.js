@@ -1,23 +1,24 @@
 const express = require("express");
 const app = express();
-const knex = require("./knexfile");
+const knex = require("./db/knex");
 const path = require("path");
+const cors = require("cors");
 
-
+app.use(cors())
 // app.use(express.static(__dirname + "/dist"));
 app.use(express.static(path.join(__dirname, './build')));
 
-app.get("/api", (req, res) => {
-  res.json("kita-----✨✨");
+app.get("/api/pokemon/:english_name", async (req, res) => {
+  await knex.select().from('pokemons')
+    .where('english_name', req.params.english_name)
+    .then(poke => {
+      return res.send(poke)
+    })
 });
 
-app.get("/api/pokemon/english_name", (req, res) => {
-  ;
-});
-
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../build/status/index.html'));
-});
+// app.get('*', (req, res) => {
+//   res.sendFile(path.join(__dirname, '../build/status/index.html'));
+// });
 
 const port = process.env.PORT || 4000;
 app.listen(port, () => {

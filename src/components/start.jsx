@@ -1,17 +1,16 @@
 //react
-import { react, useState, useEffect } from 'react';
+// import { react, useState, useEffect } from 'react';
 
 //img
 import pokeball from '../../src/pokeball.png'
 
 const Start = (props) => {
-  console.log("view: ", props.view)
-  const toSearch = (() => props.setView("search"));
+  const goSearch = (() => props.setView("search"));
 
   return (
     <div>
       <button className="startButton" type="button"
-        onClick={() => { toSearch() }}>
+        onClick={() => { goSearch() }}>
         <img src={pokeball} className="pokeball" alt="logo" />
       </button>
       <p>pokemon name 🇺🇸 → 🇯🇵 dictionary</p>

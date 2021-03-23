@@ -1,11 +1,11 @@
 //react
-import { react, useState, useEffect } from 'react';
+// import { react, useState, useEffect } from 'react';
 
 const Result = (props) => {
-  console.log("props.view: ", props.view)
   return (
     <div>
-      <p> result dayo!</p>
+      <p>{props.poke}</p>
+      <p>{props.jpName}</p>
     </div >
   )
 };
