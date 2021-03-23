@@ -1,7 +1,10 @@
 module.exports = {
   development: {
     client: 'pg',
-    connection: { user: 'nakajiarisa', database: 'pokemon' },
+    connection: { 
+      user: process.env.DB_USER, 
+      database: process.env.DB_NAME 
+    },
     migrations: {
       directory: __dirname + "/db/migrations",
     },
@@ -12,9 +15,8 @@ module.exports = {
   staging: {
     client: 'pg',
     connection: {
-      database: 'pokemon',
-      user: 'nakajiarisa',
-      password: 'password'
+      database: process.env.DB_NAME,
+      user: process.env.DB_USER,
     },
     pool: {
       min: 2,
