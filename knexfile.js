@@ -1,8 +1,12 @@
-require("dotenv").config()
+require("dotenv").config();
+const parse = require("pg-connection-string").parse;
+
+const pgconfig = parse(process.env.DATABASE_URL);
+pgconfig.ssl = { rejectUnauthorized: false };
 
 module.exports = {
   client: 'pg',
-  connection: process.env.DATABASE_URL || {
+  connection: pgconfig || {
     host: process.env.DATABASE_HOST || "127.0.0.1",
     database: process.env.DATABASE_DATABASE || process.env.DB_NAME,
     user: process.env.DATABASE_USER || process.env.DB_USER,
