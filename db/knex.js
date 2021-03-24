@@ -1,6 +1,7 @@
 const config = require('../knexfile.js');
 console.log(config);
-module.exports = require('knex')(config);
+const enviroment = process.env.NODE_ENV || "development";
+module.exports = require('knex')(config[enviroment]);
 
 //[environment]はdevelopment,productionの指定をしている丈なので
 //事前に指定するか、指定をなくすか。
