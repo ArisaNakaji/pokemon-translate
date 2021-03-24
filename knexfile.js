@@ -13,12 +13,12 @@ require("dotenv").config()
 
 // }
 
-if (process.env.DATABASE_URL !== null) {
-  const parse = require("pg-connection-string").parse;
-  const pgconfig = parse(process.env.DATABASE_URL);
-  pgconfig.ssl = { rejectUnauthorized: false };
-  console.log("pgconfig: ", pgconfig);
-}
+// if (process.env.DATABASE_URL !== null) {
+//   const parse = require("pg-connection-string").parse;
+//   const pgconfig = parse(process.env.DATABASE_URL);
+//   pgconfig.ssl = { rejectUnauthorized: false };
+//   console.log("pgconfig: ", pgconfig);
+// }
 
 module.exports = {
   development: {
@@ -36,7 +36,7 @@ module.exports = {
   },
   production: {
     client: 'pg',
-    connection: pgconfig,
+    connection: process.env.DATABASE_URL,
     migrations: {
       directory: __dirname + "/migrations",
     },
