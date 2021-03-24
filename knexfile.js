@@ -14,7 +14,7 @@ module.exports = {
     pxassword: process.env.DATABASE_PASSWORD || process.env.DB_PASSWORD,
   },
   migrations: {
-    tableName: 'pokemons',
+    tableName: 'migrate',
     directory: __dirname + '/db/migrations',
   },
   seeds: {
