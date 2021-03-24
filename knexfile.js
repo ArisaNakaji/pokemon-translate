@@ -7,6 +7,14 @@ module.exports = {
     database: process.env.DATABASE_DATABASE || process.env.DB_NAME,
     user: process.env.DATABASE_USER || process.env.DB_USER,
     port: process.env.DATABASE_PORT || '5432',
-    password: process.env.DATABASE_PASSWORD || process.env.DB_PASSWORD,
-  }
+    pxassword: process.env.DATABASE_PASSWORD || process.env.DB_PASSWORD,
+  },
+  migrations: {
+    tableName: 'pokemons',
+    directory: __dirname + '/db/migrations',
+  },
+  seeds: {
+    directory: __dirname + '/db/seeds',
+  },
+  searchPath: 'public',
 };
