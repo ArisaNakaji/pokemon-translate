@@ -10,37 +10,37 @@ module.exports = {
     Password: process.env.DATABASE_PASSWORD || process.env.DB_USER,
   }
 
-// }
+  // }
 
-// if (process.env.DATABASE_URL !== null) {
-//   const parse = require("pg-connection-string").parse;
-//   const pgconfig = parse(process.env.DATABASE_URL);
-//   pgconfig.ssl = { rejectUnauthorized: false };
-//   console.log("pgconfig: ", pgconfig);
-// }
+  // if (process.env.DATABASE_URL !== null) {
+  //   const parse = require("pg-connection-string").parse;
+  //   const pgconfig = parse(process.env.DATABASE_URL);
+  //   pgconfig.ssl = { rejectUnauthorized: false };
+  //   console.log("pgconfig: ", pgconfig);
+  // }
 
-// module.exports = {
-//   development: {
-//     client: 'pg',
-//     connection: {
-//       user: process.env.DB_USER,
-//       database: process.env.DB_NAME,
-//     },
-//     migrations: {
-//       directory: __dirname + "/db/migrations",
-//     },
-//     seeds: {
-//       directory: __dirname + "/db/seeds",
-//     },
-//   },
-//   production: {
-//     client: 'pg',
-//     connection: process.env.DATABASE_URL,
-//     migrations: {
-//       directory: __dirname + "/db/migrations",
-//     },
-//     seeds: {
-//       directory: __dirname + "/db/seeds/production",
-//     },
-//   },
-// };
+  // module.exports = {
+  //   development: {
+  //     client: 'pg',
+  //     connection: {
+  //       user: process.env.DB_USER,
+  //       database: process.env.DB_NAME,
+  //     },
+  //     migrations: {
+  //       directory: __dirname + "/db/migrations",
+  //     },
+  //     seeds: {
+  //       directory: __dirname + "/db/seeds",
+  //     },
+  //   },
+  //   production: {
+  //     client: 'pg',
+  //     connection: process.env.DATABASE_URL,
+  //     migrations: {
+  //       directory: __dirname + "/db/migrations",
+  //     },
+  //     seeds: {
+  //       directory: __dirname + "/db/seeds/production",
+  //     },
+  //   },
+};
