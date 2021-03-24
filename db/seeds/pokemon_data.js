@@ -2,9 +2,9 @@ const pokemon = require('../../data/pokemon.json');
 
 exports.seed = function (knex) {
   // Deletes ALL existing entries
-  return knex('pokemon').del()
+  return knex('pokemons').del()
     .then(function () {
       // Inserts seed entries
-      return knex('pokemon').insert(pokemon);
+      return knex('pokemons').insert(pokemon);
     });
 };
