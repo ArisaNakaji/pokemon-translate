@@ -14,6 +14,7 @@ function App() {
   const [jpName, setJpName] = useState("")
 
   const [view, setView] = useState("start");
+  const [error, setError] = useState(false);
 
   return (
     <div className="App">
@@ -22,31 +23,33 @@ function App() {
       </header>
       {view === "start" &&
         <>
-          <Start 
-          view={view} 
-          setView={setView} />
+          <Start
+            view={view}
+            setView={setView} />
         </>
       }
       {view === "search" &&
         <>
-          <Search 
-          view={view} 
-          setView={setView} 
-          poke={poke} 
-          setPoke={setPoke} 
-          jpName={jpName} 
-          setJpName={setJpName} />
+          <Search
+            view={view}
+            setView={setView}
+            poke={poke}
+            setPoke={setPoke}
+            jpName={jpName}
+            setJpName={setJpName}
+            error={error}
+            setError={setError} />
         </>
       }
       {view === "result" &&
         <>
-          <Result 
-          view={view} 
-          setView={setView} 
-          poke={poke} 
-          setPoke={setPoke} 
-          jpName={jpName} 
-          setJpName={setJpName} />
+          <Result
+            view={view}
+            setView={setView}
+            poke={poke}
+            setPoke={setPoke}
+            jpName={jpName}
+            setJpName={setJpName} />
         </>}
     </div>
   );
